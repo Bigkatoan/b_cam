@@ -124,7 +124,7 @@ class HumanSegmentNode(Node):
             default_model_path = os.path.join(pkg_share, 'weights', 'human_aug_ep50.pth')
         except Exception:
             self.get_logger().warn("Cannot find package share directory. Using local path.")
-            default_model_path = './weights/human_aug_ep50.pth'
+            default_model_path = './weights/human_aug_ep150.pth'
         
         # --- Parameters ---
         self.declare_parameter('model_path', default_model_path)
