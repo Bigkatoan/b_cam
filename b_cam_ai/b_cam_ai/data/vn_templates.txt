@@ -1,0 +1,2000 @@
+Thử tô vùng cái {obj} (mask generation).
+Làm ơn khoanh vùng đối tượng {obj} ở đây.
+Prompt: tìm kiếm class {obj} (mask generation).
+khoanh vùng con {obj} (segmentation task).
+Hey, vùng ảnh chứa {obj}?
+Này, đánh dấu category {obj} nhanh lên.
+Bạn hãy cắt hình {obj} cho tôi.
+phân đoạn những {obj} nhanh lên.
+Giúp mình chỉ ra vị trí của vật thể {obj} ở đây.
+Tôi cần chỉ ra vị trí của hình {obj} giúp nhé.
+cắt đối tượng {obj} đi.
+Muốn trích xuất class {obj} (mask generation).
+dự đoán vùng của hình {obj} -> output.
+nhận diện con {obj} xem nào.
+Giúp mình tách category {obj} nhanh lên.
+vẽ biên dạng cho các {obj} nhé.
+tô vùng category {obj} nhanh lên.
+Thử segment category {obj}.
+Vui lòng dự đoán vùng của mục tiêu {obj} [binary mask].
+Segmentation request: tìm kiếm {obj} nhanh lên.
+chỉ ra vị trí của cái {obj} nhanh lên.
+Giúp tôi lấy mask của class {obj} nhé.
+Action: cắt những {obj} cho tôi.
+Bạn ơi, generate mask cho mục tiêu {obj} -> mask.
+generate mask cho instance {obj} [binary mask].
+nhận diện các {obj}!
+mask {obj}.
+segment instance {obj} đi.
+Query: phân đoạn mục tiêu {obj} giúp nhé.
+Yêu cầu: highlight category {obj} đi.
+Bạn ơi, segment hình {obj} -> output.
+Muốn tô vùng vật thể {obj} trong ảnh.
+Thực hiện: chỉ ra vị trí của đối tượng {obj} giúp nhé.
+vẽ biên dạng cho instance {obj} đi.
+Giúp mình highlight khu vực {obj} trong ảnh.
+Yêu cầu: cắt {obj} trong ảnh.
+Ê, lấy mask của vật thể {obj} (mask generation).
+Bạn hãy tô vùng những {obj} ngay đi.
+Yêu cầu: chỉ ra vị trí của hình {obj} đi.
+AI, generate mask cho khu vực {obj} đi.
+nhận diện khu vực {obj}
+Bạn ơi, phân đoạn class {obj} ở đây.
+Model, phân đoạn class {obj}!
+Action: tìm kiếm vật thể {obj} nhanh lên.
+Ra lệnh: chỉ ra vị trí của các {obj} với độ chính xác cao.
+Tìm giúp cắt {obj}
+Nhiệm vụ: vẽ biên dạng cho đối tượng {obj} (mask generation).
+Action: phân đoạn con {obj} trong bức hình.
+Hãy chỉ ra vị trí của đối tượng {obj} trong ảnh.
+AI, locate đối tượng {obj} -> output.
+Segmentation request: cắt đối tượng {obj} ở đây.
+Prompt: tô vùng hình {obj} trong hình này.
+khoanh vùng những {obj} [binary mask].
+xác định tọa độ các {obj}!
+Này, đánh dấu category {obj}.
+Muốn tìm kiếm khu vực {obj} (segmentation task).
+Thử dự đoán vùng của {obj} -> mask.
+Ê, tô vùng con {obj}.
+Ra lệnh: nhận diện con {obj} đi.
+Vui lòng phân đoạn các {obj} xem nào.
+tìm kiếm class {obj} với độ chính xác cao.
+Tìm giúp segment category {obj}.
+Thử dự đoán vùng của instance {obj} xem nào.
+generate mask cho instance {obj} (segmentation task).
+tô vùng cái {obj} nhé.
+Làm ơn vẽ biên dạng cho instance {obj} nhanh lên.
+Query: chỉ ra vị trí của hình {obj}!
+Đề bài: nhận diện khu vực {obj} (mask generation).
+Task: generate mask cho mục tiêu {obj} trong hình này.
+locate category {obj} trong hình này.
+Bạn ơi, phân đoạn đối tượng {obj} trong hình này.
+Prompt: generate mask cho khu vực {obj} (segmentation task).
+Vui lòng vẽ biên dạng cho con {obj} nhé.
+Làm ơn vẽ biên dạng cho instance {obj}.
+Query: lấy mask của instance {obj} trong hình này.
+cắt vật thể {obj} cho tôi.
+vẽ biên dạng cho instance {obj}.
+Vui lòng dự đoán vùng của hình {obj} -> output.
+Muốn đánh dấu mục tiêu {obj} giúp nhé.
+Input: locate vật thể {obj} với độ chính xác cao.
+locate category {obj} trong ảnh.
+dự đoán vùng của mục tiêu {obj} xem nào.
+Bạn hãy tô vùng các {obj} trong bức hình.
+Ê, phát hiện {obj} [binary mask].
+trích xuất class {obj} nhé.
+Giúp mình nhận diện category {obj} xem nào.
+mask instance {obj} trong ảnh.
+Nhiệm vụ: trích xuất khu vực {obj} nhanh lên.
+Đề bài: tách {obj}
+tách hình {obj} trong ảnh.
+Task: highlight mục tiêu {obj} -> output.
+Giúp tôi chỉ ra vị trí của hình {obj} đi.
+phát hiện đối tượng {obj} trong hình này.
+Bot, highlight mục tiêu {obj} trong bức hình.
+Bạn hãy phân đoạn instance {obj} -> output.
+Ê, phân đoạn {obj}
+Nhiệm vụ: đánh dấu hình {obj} ngay đi.
+Yêu cầu: trích xuất những {obj} -> mask.
+Vui lòng khoanh vùng đối tượng {obj} ở đây.
+Thử dự đoán vùng của vật thể {obj} (mask generation).
+Prompt: tìm kiếm class {obj}
+Muốn tìm kiếm {obj}
+tách instance {obj} -> output.
+Giúp mình khoanh vùng những {obj} nhé.
+Query: trích xuất category {obj} ạ.
+tách đối tượng {obj} ạ.
+tách hình {obj} ở đây.
+Ê, xác định tọa độ các {obj} đi.
+Hãy chỉ ra vị trí của con {obj} -> mask.
+locate vật thể {obj} (segmentation task).
+dự đoán vùng của con {obj} [binary mask].
+vẽ biên dạng cho những {obj} cho tôi.
+Input: trích xuất khu vực {obj} đi.
+segment mục tiêu {obj} đi.
+lấy mask của các {obj} -> output.
+Nhiệm vụ: lấy mask của đối tượng {obj} nhé.
+Đề bài: segment class {obj} ở đây.
+Cần mask {obj} trong ảnh.
+Đề bài: dự đoán vùng của khu vực {obj} giúp nhé.
+trích xuất instance {obj} giúp nhé.
+Nhiệm vụ: cắt {obj}
+Query: trích xuất con {obj} ngay đi.
+vẽ biên dạng cho khu vực {obj} nhanh lên.
+phân đoạn con {obj} đi.
+AI, đánh dấu con {obj} (mask generation).
+mask category {obj} trong hình này.
+Ê, tìm kiếm những {obj} nhanh lên.
+Action: segment mục tiêu {obj} trong bức hình.
+tìm kiếm category {obj} (mask generation).
+Đề bài: xác định tọa độ hình {obj} -> output.
+Bạn hãy xác định tọa độ khu vực {obj} (mask generation).
+dự đoán vùng của mục tiêu {obj} với độ chính xác cao.
+locate những {obj} [binary mask].
+chỉ ra vị trí của vật thể {obj}!
+Tìm giúp tách {obj}
+phân đoạn {obj} trong bức hình.
+Yêu cầu: tách {obj}
+Bạn ơi, tách cái {obj} giúp nhé.
+lấy mask của category {obj}
+Bạn hãy mask các {obj} (mask generation).
+Ra lệnh: tìm kiếm instance {obj} (mask generation).
+tô vùng đối tượng {obj} -> output.
+Tách riêng {obj} ra khỏi các vật thể khác.
+generate mask cho khu vực {obj} ạ.
+Giúp tôi nhận diện instance {obj} với độ chính xác cao.
+Bot, chỉ ra vị trí của những {obj} giúp nhé.
+Này, locate những {obj} -> output.
+chỉ ra vị trí của đối tượng {obj} nhanh lên.
+Thử mask {obj} ngay đi.
+Giúp tôi lấy mask của category {obj}
+locate cái {obj} (segmentation task).
+khoanh vùng category {obj} đi.
+Nhiệm vụ: highlight vật thể {obj} xem nào.
+phân đoạn instance {obj} trong hình này.
+tìm kiếm khu vực {obj}!
+Giúp mình segment hình {obj}.
+Đề bài: tách {obj} trong ảnh.
+Muốn tách những {obj} giúp nhé.
+generate mask cho class {obj} trong ảnh.
+Input: generate mask cho vật thể {obj} (mask generation).
+cắt cái {obj}.
+Input: tô vùng vật thể {obj} -> mask.
+Này, trích xuất hình {obj} ạ.
+locate category {obj} ạ.
+tô vùng mục tiêu {obj} nhanh lên.
+mask mục tiêu {obj} [binary mask].
+Action: dự đoán vùng của vật thể {obj} trong bức hình.
+Tôi cần trích xuất khu vực {obj} trong ảnh.
+Ê, nhận diện các {obj} nhé.
+Này, tô vùng mục tiêu {obj} (mask generation).
+Action: cắt các {obj} nhanh lên.
+Thực hiện: tách {obj}
+chỉ ra vị trí của category {obj} cho tôi.
+Yêu cầu: locate {obj}
+Nhiệm vụ: dự đoán vùng của vật thể {obj} (mask generation).
+Thực hiện: mask đối tượng {obj}.
+vẽ biên dạng cho con {obj}.
+dự đoán vùng của những {obj} ạ.
+Cần phân đoạn con {obj} ạ.
+Segmentation request: chỉ ra vị trí của {obj}
+khoanh vùng con {obj} trong bức hình.
+Làm ơn cắt các {obj} -> mask.
+Cần generate mask cho instance {obj} giúp nhé.
+vẽ biên dạng cho instance {obj} cho tôi.
+cắt đối tượng {obj} trong ảnh.
+khoanh vùng con {obj} xem nào.
+dự đoán vùng của đối tượng {obj} trong hình này.
+Query: nhận diện con {obj} (segmentation task).
+tìm kiếm mục tiêu {obj}!
+Bạn ơi, phát hiện {obj}
+Action: đánh dấu các {obj} -> output.
+highlight {obj} trong bức hình.
+Nhiệm vụ: highlight khu vực {obj}.
+vẽ biên dạng cho mục tiêu {obj} với độ chính xác cao.
+Thực hiện: mask mục tiêu {obj}!
+Bạn hãy cắt {obj} xem nào.
+Action: cắt {obj} xem nào.
+AI, chỉ ra vị trí của cái {obj} -> output.
+Muốn tách instance {obj} trong hình này.
+Này, lấy mask của các {obj}!
+Bạn ơi, tô vùng đối tượng {obj} trong hình này.
+Tìm giúp đánh dấu cái {obj} cho tôi.
+trích xuất class {obj} trong bức hình.
+mask đối tượng {obj} cho tôi.
+Model, locate {obj}
+dự đoán vùng của category {obj} (mask generation).
+Prompt: phát hiện {obj} trong hình này.
+vẽ biên dạng cho {obj} nhé.
+phát hiện các {obj} ở đây.
+phân đoạn những {obj} xem nào.
+đánh dấu hình {obj} (segmentation task).
+đánh dấu con {obj} nhé.
+mask mục tiêu {obj} ngay đi.
+Tôi cần dự đoán vùng của khu vực {obj} nhanh lên.
+Prompt: tô vùng những {obj}
+Thử nhận diện vật thể {obj} với độ chính xác cao.
+tô vùng instance {obj} -> output.
+generate mask cho vật thể {obj} đi.
+Nhiệm vụ: nhận diện hình {obj}
+Nhiệm vụ: khoanh vùng những {obj} cho tôi.
+dự đoán vùng của mục tiêu {obj} cho tôi.
+Tôi cần generate mask cho cái {obj} [binary mask].
+Đề bài: xác định tọa độ con {obj} với độ chính xác cao.
+highlight cái {obj} trong bức hình.
+Muốn dự đoán vùng của khu vực {obj} nhanh lên.
+Segmentation request: generate mask cho {obj}
+mask mục tiêu {obj} ạ.
+tách con {obj} nhé.
+Này, cắt mục tiêu {obj} (mask generation).
+phân đoạn instance {obj} nhé.
+phân đoạn những {obj} trong ảnh.
+Hãy dự đoán vùng của những {obj} nhé.
+tìm kiếm mục tiêu {obj} cho tôi.
+Action: dự đoán vùng của instance {obj} với độ chính xác cao.
+đánh dấu hình {obj} ở đây.
+lấy mask của khu vực {obj} -> output.
+Muốn phân đoạn class {obj} (segmentation task).
+tách {obj} ở đây.
+Ê, generate mask cho con {obj} nhanh lên.
+Vui lòng segment vật thể {obj} nhanh lên.
+Làm ơn tô vùng category {obj} (segmentation task).
+dự đoán vùng của đối tượng {obj} trong bức hình.
+Tôi cần phát hiện con {obj} xem nào.
+locate hình {obj}.
+Cần xác định tọa độ vật thể {obj} cho tôi.
+Yêu cầu: segment con {obj} (mask generation).
+locate cái {obj} giúp nhé.
+chỉ ra vị trí của khu vực {obj} (mask generation).
+Input: vẽ biên dạng cho {obj}
+khoanh vùng đối tượng {obj} trong hình này.
+Giúp tôi vẽ biên dạng cho những {obj} cho tôi.
+Ê, locate vật thể {obj} với độ chính xác cao.
+cắt cái {obj} trong hình này.
+Ê, locate hình {obj} ngay đi.
+Này, trích xuất category {obj}!
+Tôi cần lấy mask của các {obj} trong hình này.
+Vui lòng khoanh vùng cái {obj}!
+Segmentation request: phân đoạn đối tượng {obj} ạ.
+Nhiệm vụ: phân đoạn mục tiêu {obj} cho tôi.
+generate mask cho cái {obj}!
+generate mask cho khu vực {obj}!
+Prompt: tô vùng instance {obj} đi.
+Segmentation request: chỉ ra vị trí của vật thể {obj} giúp nhé.
+Input: tô vùng {obj} (mask generation).
+Ê, đánh dấu các {obj} giúp nhé.
+locate con {obj} cho tôi.
+Input: vẽ biên dạng cho category {obj}.
+Thực hiện: phân đoạn class {obj} nhanh lên.
+xác định tọa độ con {obj} với độ chính xác cao.
+segment hình {obj} -> output.
+Action: generate mask cho hình {obj} nhé.
+generate mask cho vật thể {obj} -> mask.
+vẽ biên dạng cho instance {obj} ngay đi.
+Giúp mình tìm kiếm khu vực {obj} với độ chính xác cao.
+generate mask cho con {obj} nhé.
+phát hiện khu vực {obj} (segmentation task).
+Ê, nhận diện class {obj} ở đây.
+Này, segment các {obj} (segmentation task).
+Bot, tô vùng vật thể {obj} đi.
+segment đối tượng {obj} xem nào.
+tô vùng mục tiêu {obj} trong hình này.
+Thử locate những {obj} đi.
+Tìm giúp tách class {obj}!
+Giúp mình tách đối tượng {obj} ngay đi.
+dự đoán vùng của đối tượng {obj} (mask generation).
+Thực hiện: cắt cái {obj}
+tìm kiếm đối tượng {obj} -> output.
+Này, vẽ biên dạng cho con {obj} đi.
+lấy mask của con {obj} nhanh lên.
+Task: nhận diện vật thể {obj} xem nào.
+Bạn hãy mask khu vực {obj} giúp nhé.
+Vui lòng nhận diện đối tượng {obj} cho tôi.
+Đề bài: segment instance {obj} [binary mask].
+Ra lệnh: vẽ biên dạng cho hình {obj} (mask generation).
+Action: phân đoạn con {obj} trong hình này.
+Query: tìm kiếm những {obj} -> mask.
+Query: xác định tọa độ {obj}
+xác định tọa độ {obj} giúp nhé.
+Đề bài: lấy mask của đối tượng {obj} (mask generation).
+Model, khoanh vùng {obj}
+Tôi cần tô vùng {obj} trong bức hình.
+Làm ơn generate mask cho những {obj} trong ảnh.
+Giúp mình phát hiện đối tượng {obj} nhanh lên.
+Muốn lấy mask của các {obj} -> output.
+phát hiện cái {obj}
+phân đoạn cái {obj} ạ.
+tìm kiếm {obj} xem nào.
+highlight con {obj} (mask generation).
+khoanh vùng khu vực {obj} trong hình này.
+Thử locate những {obj}
+highlight con {obj} [binary mask].
+Làm ơn tìm kiếm {obj}
+khoanh vùng cái {obj}.
+Thử nhận diện hình {obj} (segmentation task).
+Segmentation request: segment {obj}
+tô vùng category {obj} -> output.
+Task: đánh dấu class {obj} đi.
+Task: highlight mục tiêu {obj} [binary mask].
+Prompt: generate mask cho {obj}
+tô vùng instance {obj} nhanh lên.
+đánh dấu category {obj} trong bức hình.
+Thực hiện: tô vùng con {obj} ạ.
+chỉ ra vị trí của cái {obj} (mask generation).
+Model, highlight vật thể {obj} nhé.
+chỉ ra vị trí của class {obj}
+Tìm giúp tìm kiếm mục tiêu {obj} (segmentation task).
+Thử cắt category {obj} -> mask.
+Bạn hãy đánh dấu mục tiêu {obj} (segmentation task).
+Hãy locate {obj}!
+highlight {obj} với độ chính xác cao.
+Yêu cầu: phân đoạn cái {obj} ạ.
+Muốn highlight {obj}!
+Bạn hãy locate khu vực {obj} (mask generation).
+khoanh vùng instance {obj} giúp nhé.
+generate mask cho category {obj} ngay đi.
+lấy mask của hình {obj} [binary mask].
+Này, highlight đối tượng {obj} giúp nhé.
+dự đoán vùng của instance {obj} trong ảnh.
+segment các {obj} (segmentation task).
+locate vật thể {obj}.
+Bot, segment hình {obj}.
+Bot, vẽ biên dạng cho vật thể {obj} đi.
+tách những {obj} nhé.
+Muốn nhận diện cái {obj} ngay đi.
+lấy mask của {obj} với độ chính xác cao.
+Ê, phát hiện {obj}
+Này, tô vùng hình {obj} -> mask.
+Action: phát hiện các {obj} ạ.
+Đề bài: nhận diện những {obj} ạ.
+Bạn ơi, chỉ ra vị trí của {obj}
+đánh dấu class {obj} giúp nhé.
+AI, tách instance {obj} trong bức hình.
+Vui lòng đánh dấu {obj}
+Cần tách {obj} với độ chính xác cao.
+phát hiện khu vực {obj} nhanh lên.
+Yêu cầu: nhận diện cái {obj} nhé.
+tách khu vực {obj} nhanh lên.
+Prompt: locate instance {obj} [binary mask].
+Thực hiện: phân đoạn instance {obj} trong bức hình.
+Này, xác định tọa độ hình {obj} (segmentation task).
+Segmentation request: tô vùng những {obj} -> mask.
+Segmentation request: tìm kiếm khu vực {obj}
+Nhiệm vụ: highlight những {obj} trong ảnh.
+segment class {obj} đi.
+Tôi cần mask {obj}
+Bạn ơi, nhận diện category {obj} cho tôi.
+AI, chỉ ra vị trí của {obj} (segmentation task).
+locate instance {obj}!
+Vui lòng khoanh vùng hình {obj}!
+Cần lấy mask của mục tiêu {obj} với độ chính xác cao.
+Query: segment {obj} nhanh lên.
+chỉ ra vị trí của khu vực {obj}.
+cắt con {obj}
+nhận diện {obj} trong ảnh.
+Này, khoanh vùng {obj} ạ.
+locate cái {obj} ạ.
+tìm kiếm vật thể {obj} đi.
+Segmentation request: segment category {obj} trong ảnh.
+Cần tìm kiếm instance {obj} nhé.
+Hey, làm sao để tìm {obj}?
+cắt instance {obj} đi.
+Làm ơn mask category {obj} trong hình này.
+chỉ ra vị trí của mục tiêu {obj} (segmentation task).
+Yêu cầu: chỉ ra vị trí của cái {obj} ngay đi.
+Giúp mình trích xuất class {obj} -> output.
+segment {obj} (mask generation).
+đánh dấu vật thể {obj} ngay đi.
+dự đoán vùng của {obj} nhanh lên.
+Thử segment khu vực {obj} ngay đi.
+nhận diện category {obj} ở đây.
+tô vùng mục tiêu {obj} với độ chính xác cao.
+segment đối tượng {obj} trong hình này.
+phát hiện đối tượng {obj} đi.
+Muốn generate mask cho class {obj}!
+locate con {obj} trong hình này.
+mask con {obj} trong ảnh.
+Muốn tách category {obj} trong bức hình.
+mask category {obj} ạ.
+Giúp tôi xác định tọa độ {obj}
+Vui lòng dự đoán vùng của instance {obj} ạ.
+Task: phát hiện mục tiêu {obj}
+Này, locate các {obj} cho tôi.
+Này, dự đoán vùng của con {obj} trong hình này.
+khoanh vùng vật thể {obj} trong bức hình.
+Giúp mình phân đoạn {obj} -> mask.
+vẽ biên dạng cho khu vực {obj} (segmentation task).
+Nhiệm vụ: tìm kiếm khu vực {obj}.
+Bot, locate những {obj}!
+Bot, tách đối tượng {obj} đi.
+mask hình {obj} (mask generation).
+Bạn hãy generate mask cho category {obj}.
+Task: phát hiện vật thể {obj} -> mask.
+Segmentation request: segment category {obj} giúp nhé.
+vẽ biên dạng cho mục tiêu {obj} trong hình này.
+Action: tách category {obj} -> mask.
+Tìm giúp locate vật thể {obj} xem nào.
+Bot, đánh dấu category {obj} đi.
+mask category {obj} (mask generation).
+nhận diện mục tiêu {obj} -> mask.
+Cần chỉ ra vị trí của khu vực {obj}.
+Ê, vẽ biên dạng cho cái {obj} xem nào.
+Muốn xác định tọa độ vật thể {obj} (segmentation task).
+locate hình {obj} với độ chính xác cao.
+generate mask cho những {obj} giúp nhé.
+xác định tọa độ mục tiêu {obj} (mask generation).
+khoanh vùng khu vực {obj} ở đây.
+cắt mục tiêu {obj} -> output.
+cắt đối tượng {obj} ở đây.
+Thử locate hình {obj} [binary mask].
+cắt các {obj} cho tôi.
+Thực hiện: phân đoạn những {obj} ngay đi.
+generate mask cho con {obj} -> mask.
+Query: dự đoán vùng của cái {obj} nhanh lên.
+mask khu vực {obj} trong bức hình.
+Giúp mình tô vùng {obj}
+phân đoạn vật thể {obj}
+Muốn tô vùng class {obj}.
+xác định tọa độ hình {obj} giúp nhé.
+Giúp mình mask {obj}
+Làm ơn chỉ ra vị trí của class {obj}
+Giúp mình mask khu vực {obj} trong bức hình.
+Bạn ơi, chỉ ra vị trí của class {obj} với độ chính xác cao.
+highlight các {obj} giúp nhé.
+Vui lòng highlight đối tượng {obj}!
+AI, tách instance {obj} nhé.
+Model, tìm kiếm đối tượng {obj}.
+Thử xác định tọa độ cái {obj} cho tôi.
+Yêu cầu: trích xuất class {obj} ở đây.
+Này, tách category {obj} đi.
+Model, khoanh vùng đối tượng {obj} ạ.
+Task: tách instance {obj} ở đây.
+locate mục tiêu {obj} nhé.
+Bot, trích xuất những {obj}
+Yêu cầu: tô vùng khu vực {obj} giúp nhé.
+Segmentation request: trích xuất instance {obj} với độ chính xác cao.
+xác định tọa độ đối tượng {obj} -> mask.
+lấy mask của những {obj}!
+locate {obj} ngay đi.
+Bạn hãy generate mask cho khu vực {obj} ngay đi.
+khoanh vùng class {obj} đi.
+Ê, đánh dấu đối tượng {obj} -> output.
+khoanh vùng hình {obj} trong bức hình.
+tách class {obj} ở đây.
+tìm kiếm instance {obj} ạ.
+Query: cắt cái {obj}.
+Task: generate mask cho mục tiêu {obj} nhé.
+locate hình {obj} ạ.
+Tôi cần tô vùng các {obj} giúp nhé.
+highlight class {obj} (mask generation).
+khoanh vùng instance {obj} ở đây.
+cắt mục tiêu {obj} cho tôi.
+Bot, khoanh vùng con {obj} (segmentation task).
+tô vùng vật thể {obj} (mask generation).
+Này, locate {obj}
+tách hình {obj} cho tôi.
+Đề bài: tách cái {obj} ở đây.
+Segmentation request: dự đoán vùng của hình {obj} nhanh lên.
+Bạn ơi, tách những {obj} đi.
+chỉ ra vị trí của con {obj} ở đây.
+cắt các {obj} trong hình này.
+cắt những {obj} đi.
+Bạn ơi, lấy mask của những {obj}.
+Làm ơn trích xuất các {obj} (mask generation).
+Segmentation request: lấy mask của {obj}
+tô vùng hình {obj} trong ảnh.
+nhận diện instance {obj} ngay đi.
+Vui lòng trích xuất con {obj} ở đây.
+Thử vẽ biên dạng cho cái {obj} trong ảnh.
+locate class {obj} trong hình này.
+xác định tọa độ hình {obj} -> output.
+Giúp mình xác định tọa độ con {obj} nhé.
+Action: lấy mask của đối tượng {obj} đi.
+Thực hiện: nhận diện {obj}
+Giúp mình mask {obj} -> output.
+phân đoạn cái {obj} (mask generation).
+tìm kiếm mục tiêu {obj} [binary mask].
+Ra lệnh: locate các {obj} trong bức hình.
+Tìm giúp phân đoạn instance {obj} giúp nhé.
+Tìm giúp segment cái {obj} với độ chính xác cao.
+Ê, phân đoạn những {obj} ở đây.
+lấy mask của category {obj} -> mask.
+cắt mục tiêu {obj}.
+Prompt: cắt con {obj} nhanh lên.
+phân đoạn những {obj} cho tôi.
+Tìm giúp phát hiện category {obj} xem nào.
+locate vật thể {obj} nhé.
+Giúp tôi tách đối tượng {obj} với độ chính xác cao.
+Hãy highlight khu vực {obj} (segmentation task).
+Muốn cắt instance {obj} ở đây.
+chỉ ra vị trí của mục tiêu {obj} trong bức hình.
+tô vùng đối tượng {obj}.
+Làm ơn tách đối tượng {obj} ngay đi.
+Muốn tô vùng category {obj} -> mask.
+xác định tọa độ instance {obj} đi.
+tô vùng các {obj} giúp nhé.
+dự đoán vùng của instance {obj}.
+Bạn ơi, khoanh vùng hình {obj} ở đây.
+Model, phân đoạn cái {obj} ạ.
+xác định tọa độ khu vực {obj}.
+cắt cái {obj} nhé.
+Giúp mình highlight {obj}
+nhận diện cái {obj}.
+Giúp tôi nhận diện vật thể {obj} (segmentation task).
+tô vùng instance {obj} nhé.
+khoanh vùng khu vực {obj} cho tôi.
+Này, chỉ ra vị trí của instance {obj} -> mask.
+Muốn khoanh vùng {obj} trong bức hình.
+xác định tọa độ những {obj} ạ.
+Giúp tôi generate mask cho class {obj}!
+Tôi cần dự đoán vùng của đối tượng {obj} ở đây.
+Giúp tôi dự đoán vùng của {obj}
+Bạn hãy đánh dấu class {obj} giúp nhé.
+Bot, phân đoạn class {obj} -> output.
+Giúp tôi trích xuất {obj}
+Prompt: phát hiện instance {obj} ở đây.
+Segmentation request: tách mục tiêu {obj} xem nào.
+Thử phát hiện mục tiêu {obj} nhé.
+highlight category {obj}.
+vẽ biên dạng cho mục tiêu {obj} trong ảnh.
+trích xuất các {obj}.
+Ra lệnh: phân đoạn những {obj} cho tôi.
+Ra lệnh: xác định tọa độ class {obj}
+Hãy nhận diện khu vực {obj} cho tôi.
+Cần tô vùng class {obj} đi.
+AI, cắt mục tiêu {obj}.
+tô vùng hình {obj}.
+Bạn ơi, tách category {obj} (mask generation).
+dự đoán vùng của con {obj} (segmentation task).
+Tôi cần dự đoán vùng của category {obj} [binary mask].
+Prompt: mask con {obj} -> mask.
+tô vùng khu vực {obj} ở đây.
+Cần khoanh vùng cái {obj} với độ chính xác cao.
+trích xuất con {obj}!
+locate category {obj} cho tôi.
+dự đoán vùng của con {obj} -> output.
+tô vùng cái {obj}!
+mask vật thể {obj} nhé.
+Yêu cầu: cắt hình {obj} với độ chính xác cao.
+locate {obj} ở đây.
+Bạn ơi, tìm kiếm class {obj} cho tôi.
+phân đoạn cái {obj} giúp nhé.
+Làm ơn dự đoán vùng của vật thể {obj} nhanh lên.
+Prompt: locate class {obj} (mask generation).
+Hey, có {obj} trong hình không?
+đánh dấu class {obj} nhanh lên.
+Nhiệm vụ: mask class {obj} giúp nhé.
+Hãy locate hình {obj} -> mask.
+Bạn ơi, locate cái {obj} trong hình này.
+Vui lòng dự đoán vùng của mục tiêu {obj} nhé.
+khoanh vùng category {obj} trong ảnh.
+Segmentation request: phân đoạn đối tượng {obj} (mask generation).
+khoanh vùng {obj}
+trích xuất các {obj} nhanh lên.
+Bot, cắt class {obj} (segmentation task).
+Vui lòng xác định tọa độ vật thể {obj} ngay đi.
+chỉ ra vị trí của con {obj} -> output.
+Thử highlight instance {obj}!
+Tôi cần đánh dấu con {obj} -> mask.
+segment class {obj} ở đây.
+Query: tô vùng class {obj} xem nào.
+Ra lệnh: khoanh vùng {obj} -> output.
+Ê, phát hiện những {obj} ngay đi.
+Prompt: lấy mask của cái {obj} [binary mask].
+Segmentation request: trích xuất category {obj} -> output.
+Query: tô vùng những {obj} trong hình này.
+Query: phát hiện vật thể {obj} (mask generation).
+nhận diện hình {obj} -> mask.
+Task: generate mask cho con {obj} trong bức hình.
+Giúp mình dự đoán vùng của hình {obj} xem nào.
+Ra lệnh: vẽ biên dạng cho khu vực {obj} giúp nhé.
+Giúp mình chỉ ra vị trí của cái {obj} ngay đi.
+Tìm giúp tìm kiếm các {obj} [binary mask].
+Làm ơn highlight category {obj} ở đây.
+Bạn hãy locate cái {obj} giúp nhé.
+Prompt: phân đoạn những {obj} xem nào.
+Thực hiện: chỉ ra vị trí của {obj} trong hình này.
+Thực hiện: khoanh vùng con {obj} (segmentation task).
+Bạn hãy vẽ biên dạng cho mục tiêu {obj} giúp nhé.
+Tôi cần phát hiện category {obj} đi.
+Cần đánh dấu những {obj} (segmentation task).
+segment những {obj} ạ.
+Yêu cầu: phân đoạn category {obj} giúp nhé.
+Segmentation request: khoanh vùng những {obj} -> mask.
+Hãy highlight các {obj} -> mask.
+Yêu cầu: khoanh vùng đối tượng {obj} (mask generation).
+Tọa độ của {obj}?
+Model, generate mask cho hình {obj}
+Bot, phát hiện con {obj} giúp nhé.
+mask khu vực {obj} cho tôi.
+Segmentation request: tìm kiếm cái {obj} (segmentation task).
+Thử segment class {obj} đi.
+đánh dấu con {obj} (segmentation task).
+Bạn hãy generate mask cho {obj} giúp nhé.
+Thực hiện: nhận diện hình {obj} nhanh lên.
+Ê, lấy mask của cái {obj} (mask generation).
+dự đoán vùng của {obj} trong ảnh.
+Nhiệm vụ: tô vùng con {obj} ngay đi.
+Giúp tôi tô vùng con {obj} ngay đi.
+AI, nhận diện cái {obj} nhanh lên.
+Giúp tôi khoanh vùng category {obj} (segmentation task).
+locate category {obj}.
+Tìm giúp generate mask cho class {obj} -> output.
+Nhiệm vụ: tô vùng {obj} nhanh lên.
+Cần segment con {obj} với độ chính xác cao.
+segment hình {obj} -> mask.
+Tìm giúp đánh dấu các {obj}.
+cắt khu vực {obj} giúp nhé.
+vẽ biên dạng cho vật thể {obj} giúp nhé.
+Làm ơn vẽ biên dạng cho con {obj} trong ảnh.
+Yêu cầu: phát hiện instance {obj} ở đây.
+chỉ ra vị trí của category {obj} với độ chính xác cao.
+Input: chỉ ra vị trí của vật thể {obj} nhanh lên.
+highlight category {obj} trong bức hình.
+Thử tô vùng hình {obj} cho tôi.
+highlight mục tiêu {obj}!
+Muốn đánh dấu instance {obj} với độ chính xác cao.
+Model, đánh dấu những {obj} trong hình này.
+Giúp mình mask instance {obj} cho tôi.
+Prompt: nhận diện khu vực {obj} cho tôi.
+mask {obj} ngay đi.
+nhận diện những {obj} trong bức hình.
+Ra lệnh: tìm kiếm hình {obj}
+Làm ơn phân đoạn các {obj} cho tôi.
+Bạn ơi, nhận diện instance {obj} (mask generation).
+Action: cắt instance {obj} xem nào.
+Thực hiện: dự đoán vùng của {obj}
+Model, vẽ biên dạng cho mục tiêu {obj} ở đây.
+chỉ ra vị trí của cái {obj} trong ảnh.
+Nhiệm vụ: dự đoán vùng của vật thể {obj} -> output.
+phân đoạn các {obj} đi.
+Segmentation target: {obj}.
+Model, xác định tọa độ class {obj} ở đây.
+Nhiệm vụ: tô vùng vật thể {obj} cho tôi.
+phát hiện những {obj} đi.
+xác định tọa độ khu vực {obj} (segmentation task).
+Nhiệm vụ: cắt con {obj}.
+tách vật thể {obj}.
+Task: dự đoán vùng của các {obj} -> output.
+đánh dấu category {obj} với độ chính xác cao.
+Giúp tôi locate instance {obj} trong hình này.
+Muốn dự đoán vùng của cái {obj} với độ chính xác cao.
+Query: xác định tọa độ cái {obj} ạ.
+highlight đối tượng {obj} đi.
+Nhiệm vụ: phát hiện class {obj} với độ chính xác cao.
+Input: vẽ biên dạng cho các {obj} trong bức hình.
+khoanh vùng vật thể {obj}.
+Segmentation request: nhận diện con {obj} ở đây.
+Thử nhận diện các {obj} xem nào.
+Bạn hãy tô vùng class {obj} với độ chính xác cao.
+Giúp tôi khoanh vùng instance {obj} trong bức hình.
+Vui lòng trích xuất khu vực {obj} trong bức hình.
+generate mask cho mục tiêu {obj}.
+phân đoạn mục tiêu {obj} (mask generation).
+AI, highlight cái {obj} nhé.
+chỉ ra vị trí của các {obj} giúp nhé.
+highlight con {obj} ạ.
+Tìm giúp khoanh vùng vật thể {obj} (segmentation task).
+Ra lệnh: tô vùng class {obj} ở đây.
+locate vật thể {obj} -> output.
+Đề bài: generate mask cho class {obj}.
+trích xuất category {obj}!
+Ra lệnh: segment hình {obj}!
+Query: phát hiện những {obj} nhanh lên.
+tô vùng mục tiêu {obj} cho tôi.
+Nhiệm vụ: highlight class {obj} (segmentation task).
+Bạn ơi, tô vùng vật thể {obj} ạ.
+xác định tọa độ class {obj} trong hình này.
+Prompt: tìm kiếm con {obj}
+chỉ ra vị trí của con {obj}!
+tách những {obj} nhanh lên.
+dự đoán vùng của mục tiêu {obj} [binary mask].
+segment các {obj}.
+Thử tìm kiếm {obj}
+segment những {obj} giúp nhé.
+Hãy tách category {obj}!
+Segmentation request: tìm kiếm hình {obj} (segmentation task).
+Muốn mask {obj}
+Bạn hãy khoanh vùng những {obj} nhé.
+lấy mask của vật thể {obj} ở đây.
+Giúp mình highlight những {obj} cho tôi.
+dự đoán vùng của instance {obj} [binary mask].
+cắt category {obj} xem nào.
+Giúp mình khoanh vùng khu vực {obj} cho tôi.
+chỉ ra vị trí của các {obj} trong ảnh.
+Ra lệnh: phân đoạn đối tượng {obj}
+tô vùng instance {obj}.
+Hãy trích xuất instance {obj} -> mask.
+Tìm giúp xác định tọa độ con {obj}!
+Ê, chỉ ra vị trí của các {obj} xem nào.
+AI, tô vùng những {obj} ngay đi.
+Segmentation request: locate hình {obj}.
+Muốn cắt class {obj} trong ảnh.
+phát hiện class {obj} trong hình này.
+Input: chỉ ra vị trí của hình {obj} đi.
+phát hiện instance {obj} ở đây.
+Làm ơn trích xuất đối tượng {obj} ở đây.
+Ê, tách class {obj} [binary mask].
+Tôi cần khoanh vùng mục tiêu {obj} trong hình này.
+Cần segment khu vực {obj} nhé.
+Bạn hãy segment hình {obj} đi.
+Muốn dự đoán vùng của đối tượng {obj}.
+Giúp tôi segment những {obj} với độ chính xác cao.
+Bạn ơi, locate khu vực {obj} xem nào.
+Ê, highlight {obj}
+generate mask cho những {obj}!
+tô vùng con {obj} giúp nhé.
+Đề bài: đánh dấu những {obj}!
+Bạn ơi, phân đoạn instance {obj} [binary mask].
+trích xuất những {obj} cho tôi.
+Tìm giúp locate cái {obj} ạ.
+Nhiệm vụ: tô vùng đối tượng {obj} nhé.
+Cần đánh dấu {obj} trong ảnh.
+Vui lòng phân đoạn cái {obj}.
+Cần tách con {obj} đi.
+Cần nhận diện category {obj} ở đây.
+Model, generate mask cho khu vực {obj} trong hình này.
+phát hiện vật thể {obj}
+trích xuất đối tượng {obj} giúp nhé.
+xác định tọa độ cái {obj} trong hình này.
+xác định tọa độ đối tượng {obj} đi.
+Cần dự đoán vùng của vật thể {obj} [binary mask].
+chỉ ra vị trí của đối tượng {obj} xem nào.
+Vui lòng vẽ biên dạng cho class {obj} trong ảnh.
+tách con {obj} nhanh lên.
+xác định tọa độ các {obj} đi.
+Task: locate {obj}
+cắt khu vực {obj} trong hình này.
+Này, segment instance {obj} ngay đi.
+đánh dấu instance {obj}
+Thực hiện: tìm kiếm class {obj}!
+Ê, tìm kiếm hình {obj} nhanh lên.
+Bạn hãy phân đoạn cái {obj} giúp nhé.
+Ra lệnh: lấy mask của khu vực {obj} (segmentation task).
+locate các {obj} nhanh lên.
+Input: tô vùng mục tiêu {obj}.
+Này, segment {obj}
+Thực hiện: lấy mask của con {obj} ạ.
+Segmentation request: vẽ biên dạng cho mục tiêu {obj} nhanh lên.
+Ê, phát hiện {obj} với độ chính xác cao.
+Vui lòng vẽ biên dạng cho những {obj} -> output.
+xác định tọa độ các {obj} trong hình này.
+Tìm giúp mask category {obj} trong ảnh.
+Này, highlight instance {obj} đi.
+xác định tọa độ category {obj} (segmentation task).
+Model, tìm kiếm các {obj}!
+Thử dự đoán vùng của vật thể {obj} với độ chính xác cao.
+Vui lòng lấy mask của {obj}
+Thử lấy mask của đối tượng {obj}.
+Bot, lấy mask của cái {obj} với độ chính xác cao.
+Prompt: chỉ ra vị trí của {obj}
+trích xuất category {obj} cho tôi.
+Cần nhận diện những {obj} ạ.
+Yêu cầu: khoanh vùng con {obj} ở đây.
+xác định tọa độ khu vực {obj} trong ảnh.
+Query: highlight những {obj} [binary mask].
+dự đoán vùng của class {obj} trong bức hình.
+locate vật thể {obj} trong hình này.
+highlight class {obj} ạ.
+tách con {obj} ạ.
+chỉ ra vị trí của khu vực {obj} ở đây.
+phát hiện hình {obj} (segmentation task).
+highlight class {obj} (segmentation task).
+Action: khoanh vùng instance {obj} giúp nhé.
+tìm kiếm {obj} đi.
+Prompt: generate mask cho khu vực {obj} nhé.
+Thử phân đoạn category {obj} trong bức hình.
+vẽ biên dạng cho khu vực {obj} ở đây.
+Prompt: segment khu vực {obj} xem nào.
+Này, generate mask cho mục tiêu {obj}
+Tìm giúp mask vật thể {obj} trong bức hình.
+chỉ ra vị trí của con {obj} trong hình này.
+AI, tách category {obj} trong bức hình.
+xác định tọa độ class {obj} với độ chính xác cao.
+tô vùng con {obj} -> output.
+mask cái {obj} (segmentation task).
+segment hình {obj}.
+Cần tô vùng cái {obj} xem nào.
+trích xuất mục tiêu {obj} nhé.
+tìm kiếm con {obj} nhanh lên.
+Yêu cầu: cắt đối tượng {obj} giúp nhé.
+Vui lòng đánh dấu class {obj} (mask generation).
+Segmentation request: vẽ biên dạng cho cái {obj} giúp nhé.
+Muốn chỉ ra vị trí của {obj}
+Muốn highlight class {obj} với độ chính xác cao.
+Bot, vẽ biên dạng cho cái {obj}
+đánh dấu {obj} ở đây.
+Giúp tôi nhận diện hình {obj} đi.
+Ra lệnh: highlight các {obj} trong bức hình.
+khoanh vùng khu vực {obj} nhanh lên.
+khoanh vùng những {obj} xem nào.
+lấy mask của class {obj} nhé.
+Ra lệnh: đánh dấu instance {obj} ạ.
+AI, lấy mask của {obj}
+Yêu cầu: locate vật thể {obj} trong ảnh.
+cắt khu vực {obj} với độ chính xác cao.
+đánh dấu cái {obj} nhé.
+Giúp mình highlight mục tiêu {obj} nhé.
+Tìm giúp tìm kiếm mục tiêu {obj} -> mask.
+Cần khoanh vùng category {obj} giúp nhé.
+vẽ biên dạng cho mục tiêu {obj} xem nào.
+Thử locate các {obj} nhé.
+vẽ biên dạng cho category {obj} nhanh lên.
+mask các {obj} trong ảnh.
+xác định tọa độ vật thể {obj}.
+AI, segment con {obj} ngay đi.
+Đề bài: mask cái {obj} giúp nhé.
+generate mask cho instance {obj}!
+Thử phát hiện class {obj} với độ chính xác cao.
+phân đoạn những {obj} -> mask.
+Segment {obj}
+trích xuất instance {obj} (segmentation task).
+Thử phân đoạn mục tiêu {obj} cho tôi.
+Ra lệnh: xác định tọa độ những {obj} đi.
+lấy mask của instance {obj} với độ chính xác cao.
+highlight các {obj} với độ chính xác cao.
+Hãy nhận diện đối tượng {obj} nhanh lên.
+nhận diện các {obj}.
+chỉ ra vị trí của {obj} giúp nhé.
+vẽ biên dạng cho các {obj} (segmentation task).
+Đề bài: đánh dấu hình {obj} xem nào.
+dự đoán vùng của đối tượng {obj} cho tôi.
+Cần lấy mask của {obj}
+Action: tách {obj}
+Action: lấy mask của mục tiêu {obj} với độ chính xác cao.
+Bạn ơi, highlight con {obj} trong bức hình.
+Thực hiện: phát hiện khu vực {obj} ạ.
+Thử mask đối tượng {obj} trong bức hình.
+Query: lấy mask của {obj}
+Query: nhận diện {obj} (mask generation).
+Tìm giúp segment {obj}
+Nhiệm vụ: vẽ biên dạng cho class {obj} xem nào.
+Thử vẽ biên dạng cho cái {obj}!
+Cần cắt {obj} đi.
+Segmentation request: highlight instance {obj} giúp nhé.
+mask mục tiêu {obj} cho tôi.
+Đề bài: locate instance {obj} ở đây.
+chỉ ra vị trí của hình {obj} với độ chính xác cao.
+Giúp tôi xác định tọa độ vật thể {obj} (segmentation task).
+Ra lệnh: generate mask cho hình {obj} cho tôi.
+Thực hiện: tô vùng những {obj}.
+Bạn ơi, segment cái {obj} (segmentation task).
+Ê, highlight con {obj} với độ chính xác cao.
+Làm ơn highlight những {obj} ở đây.
+đánh dấu class {obj} cho tôi.
+phân đoạn con {obj} (segmentation task).
+nhận diện {obj} (segmentation task).
+Này, phân đoạn các {obj} đi.
+vẽ biên dạng cho mục tiêu {obj} -> output.
+lấy mask của instance {obj}
+Cần segment cái {obj} [binary mask].
+Đề bài: tìm kiếm cái {obj}
+nhận diện vật thể {obj} xem nào.
+tách khu vực {obj} cho tôi.
+Muốn đánh dấu instance {obj} ngay đi.
+generate mask cho mục tiêu {obj} nhanh lên.
+AI, nhận diện vật thể {obj} với độ chính xác cao.
+Model, xác định tọa độ {obj}
+phân đoạn con {obj} trong hình này.
+Cần tìm kiếm đối tượng {obj}
+Yêu cầu: khoanh vùng đối tượng {obj} [binary mask].
+phát hiện vật thể {obj} -> mask.
+Thử highlight đối tượng {obj} đi.
+cắt khu vực {obj} nhanh lên.
+Model, chỉ ra vị trí của category {obj} [binary mask].
+xác định tọa độ mục tiêu {obj} trong bức hình.
+Thử xác định tọa độ những {obj} [binary mask].
+Này, generate mask cho hình {obj} -> output.
+generate mask cho class {obj} ngay đi.
+Giúp tôi trích xuất các {obj} xem nào.
+Vui lòng vẽ biên dạng cho {obj}
+Làm ơn vẽ biên dạng cho {obj}
+chỉ ra vị trí của khu vực {obj} cho tôi.
+Đề bài: highlight cái {obj} với độ chính xác cao.
+Input: segment con {obj} (mask generation).
+Bạn hãy vẽ biên dạng cho vật thể {obj} -> output.
+Thực hiện: trích xuất khu vực {obj} nhanh lên.
+Bot, vẽ biên dạng cho cái {obj} ngay đi.
+Query: trích xuất khu vực {obj} (mask generation).
+tô vùng khu vực {obj} (segmentation task).
+Muốn trích xuất hình {obj} đi.
+Nhiệm vụ: lấy mask của vật thể {obj} giúp nhé.
+phát hiện cái {obj} (segmentation task).
+Giúp tôi đánh dấu mục tiêu {obj}.
+mask đối tượng {obj} -> mask.
+segment class {obj}!
+lấy mask của vật thể {obj} trong hình này.
+Yêu cầu: highlight khu vực {obj} giúp nhé.
+Prompt: phát hiện {obj}
+Ra lệnh: tìm kiếm đối tượng {obj} ạ.
+Query: vẽ biên dạng cho {obj}
+tách cái {obj} trong ảnh.
+Đề bài: khoanh vùng khu vực {obj} [binary mask].
+Muốn khoanh vùng những {obj} [binary mask].
+tô vùng {obj}!
+trích xuất mục tiêu {obj}.
+Tôi cần tô vùng đối tượng {obj} nhanh lên.
+Task: trích xuất các {obj} (mask generation).
+dự đoán vùng của vật thể {obj} trong bức hình.
+chỉ ra vị trí của category {obj} nhanh lên.
+Thử mask cái {obj} trong hình này.
+Muốn vẽ biên dạng cho hình {obj}
+trích xuất cái {obj}
+Action: dự đoán vùng của instance {obj} nhé.
+cắt {obj}
+xác định tọa độ class {obj} đi.
+Thực hiện: generate mask cho cái {obj} nhanh lên.
+Này, chỉ ra vị trí của vật thể {obj} -> output.
+locate instance {obj} đi.
+dự đoán vùng của đối tượng {obj} với độ chính xác cao.
+Đề bài: tìm kiếm mục tiêu {obj} ạ.
+Này, locate class {obj} nhé.
+tìm kiếm category {obj} (segmentation task).
+Tìm giúp tô vùng mục tiêu {obj} nhanh lên.
+trích xuất những {obj}
+Task: phân đoạn cái {obj} [binary mask].
+Hãy nhận diện category {obj} xem nào.
+Ra lệnh: phát hiện category {obj} -> output.
+vẽ biên dạng cho hình {obj}
+locate cái {obj} nhanh lên.
+lấy mask của {obj} cho tôi.
+Hãy lấy mask của con {obj} -> mask.
+Này, xác định tọa độ con {obj} ạ.
+Model, tìm kiếm cái {obj} trong ảnh.
+tách category {obj}.
+segment khu vực {obj}.
+Task: đánh dấu đối tượng {obj} trong bức hình.
+dự đoán vùng của class {obj} -> output.
+xác định tọa độ class {obj}
+Query: phân đoạn mục tiêu {obj}
+highlight hình {obj}!
+Thực hiện: phát hiện {obj}
+trích xuất hình {obj} -> output.
+Action: cắt đối tượng {obj} trong hình này.
+Task: tách những {obj}
+Này, mask các {obj} (segmentation task).
+Làm ơn generate mask cho hình {obj} ạ.
+tô vùng instance {obj} cho tôi.
+lấy mask của những {obj} trong bức hình.
+chỉ ra vị trí của category {obj} giúp nhé.
+Tôi cần nhận diện cái {obj} đi.
+Tôi cần lấy mask của các {obj}.
+vẽ biên dạng cho class {obj} trong bức hình.
+Task: lấy mask của cái {obj} với độ chính xác cao.
+highlight cái {obj} cho tôi.
+vẽ biên dạng cho những {obj}!
+Vui lòng highlight category {obj} cho tôi.
+Cần dự đoán vùng của {obj}
+Thực hiện: highlight đối tượng {obj} (mask generation).
+Này, mask khu vực {obj}!
+Prompt: cắt mục tiêu {obj}
+Giúp tôi cắt vật thể {obj} ạ.
+Prompt: đánh dấu class {obj} trong ảnh.
+Tôi cần highlight khu vực {obj}!
+Bạn hãy tô vùng category {obj} ạ.
+Bạn ơi, tô vùng các {obj} ạ.
+Model, dự đoán vùng của class {obj} ngay đi.
+xác định tọa độ khu vực {obj} với độ chính xác cao.
+tìm kiếm category {obj} nhé.
+segment {obj} nhanh lên.
+Đề bài: generate mask cho class {obj} (mask generation).
+tách những {obj} [binary mask].
+Bot, tô vùng {obj}
+Thực hiện: locate instance {obj} cho tôi.
+Giúp tôi locate cái {obj} đi.
+mask hình {obj} [binary mask].
+Yêu cầu: tách đối tượng {obj} ngay đi.
+Yêu cầu: highlight {obj}
+Làm ơn highlight vật thể {obj} nhé.
+xác định tọa độ các {obj} trong ảnh.
+Model, lấy mask của {obj}
+Bot, mask {obj}
+Bot, tách class {obj} trong hình này.
+trích xuất đối tượng {obj} nhé.
+Thực hiện: mask vật thể {obj} với độ chính xác cao.
+Task: vẽ biên dạng cho hình {obj} (mask generation).
+Hãy khoanh vùng category {obj} nhé.
+nhận diện khu vực {obj} (mask generation).
+Thử phát hiện các {obj} -> output.
+đánh dấu {obj} ngay đi.
+lấy mask của khu vực {obj} [binary mask].
+Bạn ơi, locate các {obj} cho tôi.
+tách mục tiêu {obj} -> mask.
+Bạn hãy cắt {obj}
+Giúp mình tách {obj}
+dự đoán vùng của con {obj} trong ảnh.
+Giúp tôi nhận diện khu vực {obj} (segmentation task).
+Query: lấy mask của đối tượng {obj} ạ.
+xác định tọa độ các {obj} (mask generation).
+Ê, segment category {obj} ngay đi.
+Bạn hãy segment {obj} xem nào.
+Task: xác định tọa độ đối tượng {obj} ở đây.
+vẽ biên dạng cho class {obj} nhé.
+Input: locate mục tiêu {obj} ngay đi.
+Giúp mình phân đoạn đối tượng {obj} ở đây.
+Tôi cần generate mask cho instance {obj} [binary mask].
+Thử phân đoạn vật thể {obj} giúp nhé.
+tách vật thể {obj} -> mask.
+Này, phát hiện {obj}
+{obj} nằm ở đâu? Mask nó đi.
+Giúp mình trích xuất instance {obj} (mask generation).
+Này, dự đoán vùng của khu vực {obj} nhé.
+Thực hiện: vẽ biên dạng cho khu vực {obj}.
+tìm kiếm khu vực {obj} [binary mask].
+trích xuất khu vực {obj} đi.
+lấy mask của instance {obj} ở đây.
+cắt {obj} ạ.
+Tôi cần locate vật thể {obj} (segmentation task).
+trích xuất instance {obj} nhé.
+nhận diện những {obj} với độ chính xác cao.
+Tìm giúp phân đoạn instance {obj} -> mask.
+Thử mask vật thể {obj} trong ảnh.
+Hãy đánh dấu instance {obj}!
+Thử phân đoạn class {obj} ở đây.
+Nhiệm vụ: phát hiện những {obj} đi.
+Tôi cần generate mask cho những {obj} xem nào.
+Giúp tôi mask class {obj} giúp nhé.
+segment cái {obj} trong ảnh.
+cắt những {obj} trong bức hình.
+Này, highlight category {obj}.
+segment cái {obj} cho tôi.
+mask vật thể {obj} trong bức hình.
+Category ID: {obj}.
+Task: dự đoán vùng của con {obj} ạ.
+Yêu cầu: dự đoán vùng của mục tiêu {obj}.
+Đề bài: đánh dấu category {obj} [binary mask].
+Thực hiện: vẽ biên dạng cho những {obj}!
+Làm ơn lấy mask của {obj}
+Muốn phát hiện cái {obj} trong ảnh.
+Hãy vẽ biên dạng cho {obj}
+tô vùng con {obj}
+mask đối tượng {obj} ngay đi.
+Task: generate mask cho vật thể {obj} ở đây.
+Ra lệnh: generate mask cho những {obj} -> mask.
+Input: phân đoạn instance {obj} đi.
+Segmentation request: tìm kiếm đối tượng {obj} -> output.
+Yêu cầu: lấy mask của {obj}
+highlight khu vực {obj} nhanh lên.
+đánh dấu con {obj} xem nào.
+chỉ ra vị trí của vật thể {obj} cho tôi.
+Ê, tìm kiếm khu vực {obj} trong ảnh.
+locate các {obj} trong hình này.
+Giúp mình lấy mask của cái {obj} ở đây.
+Thử đánh dấu instance {obj} ở đây.
+Muốn phân đoạn cái {obj} nhanh lên.
+Thực hiện: tách con {obj} -> output.
+cắt con {obj} xem nào.
+Yêu cầu: highlight các {obj} ạ.
+Bạn hãy đánh dấu hình {obj} trong hình này.
+Này, highlight instance {obj}!
+Vui lòng phát hiện {obj} xem nào.
+Segmentation request: xác định tọa độ hình {obj} với độ chính xác cao.
+Nhiệm vụ: chỉ ra vị trí của mục tiêu {obj}.
+Thử generate mask cho những {obj} cho tôi.
+Bạn hãy cắt đối tượng {obj} ngay đi.
+lấy mask của đối tượng {obj} nhé.
+locate đối tượng {obj} cho tôi.
+phân đoạn {obj} ạ.
+AI, đánh dấu con {obj} [binary mask].
+Task: lấy mask của category {obj} xem nào.
+Cần xác định tọa độ {obj}
+Task: mask {obj}
+trích xuất các {obj} -> mask.
+khoanh vùng hình {obj}!
+Này, tô vùng con {obj} đi.
+tìm kiếm các {obj} cho tôi.
+Cần phân đoạn {obj}
+dự đoán vùng của class {obj} giúp nhé.
+Nhiệm vụ: lấy mask của class {obj}!
+Cần cắt instance {obj} -> output.
+Bot, tìm kiếm vật thể {obj} cho tôi.
+Thực hiện: chỉ ra vị trí của các {obj} với độ chính xác cao.
+generate mask cho class {obj} trong hình này.
+Đề bài: nhận diện mục tiêu {obj} với độ chính xác cao.
+Prompt: phát hiện instance {obj}
+Zero-shot segmentation: {obj}.
+Giúp tôi trích xuất đối tượng {obj} giúp nhé.
+highlight mục tiêu {obj} xem nào.
+Giúp mình trích xuất {obj} -> output.
+nhận diện mục tiêu {obj} trong hình này.
+Input: phát hiện category {obj} trong hình này.
+Bot, nhận diện instance {obj} -> mask.
+Query: mask category {obj} xem nào.
+Tôi cần vẽ biên dạng cho con {obj} nhé.
+tách hình {obj} giúp nhé.
+Ra lệnh: trích xuất hình {obj} ở đây.
+chỉ ra vị trí của cái {obj} giúp nhé.
+Ê, mask các {obj} trong hình này.
+vẽ biên dạng cho hình {obj} [binary mask].
+Hãy highlight các {obj} nhanh lên.
+dự đoán vùng của vật thể {obj} ạ.
+tô vùng category {obj} với độ chính xác cao.
+nhận diện hình {obj} -> output.
+Segmentation request: chỉ ra vị trí của {obj} -> output.
+Thực hiện: xác định tọa độ {obj}
+generate mask cho class {obj} (segmentation task).
+Muốn xác định tọa độ category {obj} (segmentation task).
+Input: khoanh vùng {obj} -> mask.
+tìm kiếm instance {obj} nhé.
+phân đoạn vật thể {obj} trong bức hình.
+Giúp tôi generate mask cho con {obj}.
+lấy mask của cái {obj} [binary mask].
+segment instance {obj}.
+Tìm giúp đánh dấu các {obj} trong ảnh.
+chỉ ra vị trí của instance {obj} đi.
+Tìm giúp tìm kiếm cái {obj} trong ảnh.
+Làm ơn chỉ ra vị trí của instance {obj} trong hình này.
+Bot, generate mask cho class {obj}!
+Giúp tôi đánh dấu hình {obj}!
+Yêu cầu: highlight các {obj}!
+Thử segment đối tượng {obj} -> mask.
+mask mục tiêu {obj} -> output.
+Segmentation request: cắt category {obj} nhé.
+Ê, generate mask cho instance {obj} nhé.
+vẽ biên dạng cho mục tiêu {obj}!
+Ê, khoanh vùng instance {obj} -> mask.
+tách class {obj} [binary mask].
+Ra lệnh: vẽ biên dạng cho instance {obj} -> mask.
+AI, locate hình {obj}!
+Ra lệnh: đánh dấu con {obj} ạ.
+Tìm giúp highlight {obj}
+Bạn ơi, trích xuất {obj}
+Làm ơn tô vùng instance {obj} giúp nhé.
+phát hiện con {obj} ạ.
+Nhiệm vụ: generate mask cho vật thể {obj}.
+Thử khoanh vùng các {obj} với độ chính xác cao.
+Action: xác định tọa độ {obj} ngay đi.
+Ê, tách {obj}
+Segmentation request: cắt đối tượng {obj} đi.
+segment class {obj} cho tôi.
+highlight con {obj} xem nào.
+Bạn hãy xác định tọa độ cái {obj} trong hình này.
+highlight hình {obj} (mask generation).
+highlight category {obj} giúp nhé.
+Tìm giúp phát hiện category {obj} -> mask.
+segment vật thể {obj} ngay đi.
+Action: tìm kiếm con {obj} đi.
+Ra lệnh: highlight khu vực {obj} nhanh lên.
+nhận diện những {obj} [binary mask].
+khoanh vùng các {obj} [binary mask].
+trích xuất khu vực {obj} -> mask.
+Nhiệm vụ: xác định tọa độ mục tiêu {obj} ạ.
+Này, generate mask cho {obj}
+phát hiện vật thể {obj} ạ.
+Thử phân đoạn đối tượng {obj} đi.
+mask {obj}
+Action: dự đoán vùng của {obj} cho tôi.
+Segmentation request: tách {obj}
+tách cái {obj} nhanh lên.
+tìm kiếm con {obj} giúp nhé.
+Đề bài: cắt {obj}
+cắt mục tiêu {obj} -> mask.
+dự đoán vùng của vật thể {obj} (segmentation task).
+khoanh vùng con {obj} đi.
+Input: locate cái {obj} (segmentation task).
+Prompt: nhận diện cái {obj} nhanh lên.
+Này, trích xuất class {obj} xem nào.
+Bot, segment mục tiêu {obj} ngay đi.
+mask hình {obj} -> output.
+Thử lấy mask của các {obj} với độ chính xác cao.
+Yêu cầu: phân đoạn category {obj} xem nào.
+Tôi cần vẽ biên dạng cho category {obj} nhanh lên.
+trích xuất mục tiêu {obj} -> output.
+Đề bài: đánh dấu khu vực {obj}!
+Bạn ơi, highlight con {obj} (segmentation task).
+mask hình {obj}!
+segment cái {obj} đi.
+Tìm giúp nhận diện những {obj} ạ.
+Bạn ơi, vẽ biên dạng cho con {obj} [binary mask].
+Tôi cần vẽ biên dạng cho class {obj} ạ.
+đánh dấu class {obj} xem nào.
+generate mask cho cái {obj} -> mask.
+Bạn ơi, tìm kiếm cái {obj} với độ chính xác cao.
+trích xuất các {obj} -> output.
+Tôi cần chỉ ra vị trí của instance {obj}!
+Tìm giúp xác định tọa độ {obj}
+Thử phân đoạn vật thể {obj} với độ chính xác cao.
+Nhiệm vụ: vẽ biên dạng cho khu vực {obj} với độ chính xác cao.
+Input: tách class {obj} -> mask.
+cắt mục tiêu {obj} (segmentation task).
+Muốn dự đoán vùng của hình {obj} cho tôi.
+Bạn hãy tô vùng vật thể {obj}
+Prompt: lấy mask của đối tượng {obj} giúp nhé.
+Thử dự đoán vùng của {obj} xem nào.
+xác định tọa độ con {obj}!
+generate mask cho cái {obj} [binary mask].
+xác định tọa độ con {obj} (segmentation task).
+Nhiệm vụ: phát hiện {obj}
+Query: tìm kiếm con {obj} cho tôi.
+Đề bài: segment category {obj} trong bức hình.
+locate khu vực {obj} nhanh lên.
+xác định tọa độ khu vực {obj}
+generate mask cho các {obj} trong ảnh.
+trích xuất mục tiêu {obj} ngay đi.
+Làm ơn phân đoạn instance {obj} giúp nhé.
+khoanh vùng đối tượng {obj}
+Segmentation request: vẽ biên dạng cho khu vực {obj} (segmentation task).
+Giúp mình phân đoạn vật thể {obj} ở đây.
+Hãy lấy mask của mục tiêu {obj} ạ.
+Task: phát hiện con {obj}
+Tôi cần generate mask cho khu vực {obj} trong bức hình.
+locate instance {obj} trong hình này.
+lấy mask của class {obj} [binary mask].
+xác định tọa độ category {obj} cho tôi.
+Thực hiện: segment vật thể {obj}.
+Làm ơn cắt {obj}
+AI, locate mục tiêu {obj} ạ.
+Tôi cần nhận diện {obj}
+AI, segment {obj}
+Cần tô vùng {obj}
+tô vùng vật thể {obj} đi.
+Nhiệm vụ: vẽ biên dạng cho hình {obj} nhanh lên.
+vẽ biên dạng cho category {obj} với độ chính xác cao.
+nhận diện cái {obj}!
+dự đoán vùng của cái {obj} xem nào.
+dự đoán vùng của khu vực {obj} cho tôi.
+tách category {obj} -> mask.
+khoanh vùng category {obj} cho tôi.
+Tôi cần generate mask cho vật thể {obj} cho tôi.
+mask đối tượng {obj} [binary mask].
+Giúp mình segment {obj}
+chỉ ra vị trí của cái {obj} ở đây.
+mask instance {obj} cho tôi.
+Cần generate mask cho vật thể {obj} nhé.
+segment đối tượng {obj} giúp nhé.
+Nhìn vào ảnh và cho tôi biết vùng của {obj}.
+Segmentation request: locate class {obj} nhé.
+Yêu cầu: lấy mask của khu vực {obj} -> mask.
+highlight những {obj} -> output.
+Prompt: khoanh vùng {obj}
+Làm ơn highlight đối tượng {obj} -> mask.
+Giúp mình khoanh vùng khu vực {obj} ngay đi.
+Vui lòng trích xuất category {obj} trong bức hình.
+Task: segment category {obj}.
+Đề bài: trích xuất category {obj} trong hình này.
+Model, highlight mục tiêu {obj}.
+Nhiệm vụ: tìm kiếm khu vực {obj} trong ảnh.
+Model, tô vùng các {obj} với độ chính xác cao.
+tìm kiếm đối tượng {obj}
+Làm ơn tách đối tượng {obj} trong ảnh.
+Query: locate {obj}
+tìm kiếm instance {obj}
+Đề bài: tìm kiếm những {obj} đi.
+phân đoạn cái {obj}.
+Bạn hãy cắt các {obj} trong ảnh.
+phân đoạn con {obj} ngay đi.
+locate {obj} trong bức hình.
+Muốn dự đoán vùng của những {obj} đi.
+Yêu cầu: tìm kiếm {obj}
+Ê, phân đoạn những {obj} ngay đi.
+segment instance {obj} ngay đi.
+chỉ ra vị trí của những {obj} nhanh lên.
+Giúp mình cắt con {obj} nhanh lên.
+Query: segment {obj}
+AI, generate mask cho category {obj} ở đây.
+Ê, lấy mask của hình {obj} (segmentation task).
+Làm ơn highlight đối tượng {obj} giúp nhé.
+Yêu cầu: đánh dấu vật thể {obj} ngay đi.
+Ra lệnh: khoanh vùng instance {obj} đi.
+Này, highlight những {obj} với độ chính xác cao.
+cắt đối tượng {obj} [binary mask].
+Action: vẽ biên dạng cho {obj}
+phân đoạn khu vực {obj} (segmentation task).
+chỉ ra vị trí của class {obj} ngay đi.
+nhận diện class {obj} cho tôi.
+tìm kiếm đối tượng {obj} xem nào.
+dự đoán vùng của con {obj} nhé.
+Ê, highlight {obj} [binary mask].
+Tôi cần generate mask cho {obj}
+Nhiệm vụ: cắt khu vực {obj} -> output.
+chỉ ra vị trí của class {obj} (segmentation task).
+AI, highlight category {obj} [binary mask].
+highlight các {obj} nhanh lên.
+Query: đánh dấu instance {obj} ở đây.
+đánh dấu class {obj} (segmentation task).
+Hãy generate mask cho các {obj} ạ.
+Làm ơn chỉ ra vị trí của hình {obj}!
+Task: dự đoán vùng của {obj} ạ.
+Yêu cầu: chỉ ra vị trí của {obj} cho tôi.
+mask hình {obj}
+Giúp tôi generate mask cho class {obj} [binary mask].
+Bạn hãy cắt cái {obj} đi.
+Bạn hãy mask đối tượng {obj} (segmentation task).
+Tôi cần vẽ biên dạng cho đối tượng {obj} trong bức hình.
+Query: cắt mục tiêu {obj} giúp nhé.
+Tìm giúp đánh dấu vật thể {obj} trong hình này.
+highlight category {obj} (mask generation).
+Tôi cần segment mục tiêu {obj} nhanh lên.
+xác định tọa độ những {obj} [binary mask].
+Prompt: segment khu vực {obj}.
+dự đoán vùng của instance {obj} nhanh lên.
+Tôi cần highlight những {obj} (mask generation).
+tách hình {obj}.
+Thử generate mask cho khu vực {obj} nhanh lên.
+Segmentation request: tô vùng mục tiêu {obj} trong bức hình.
+Giúp mình phân đoạn những {obj}
+mask instance {obj}
+tô vùng vật thể {obj}
+Này, lấy mask của những {obj} với độ chính xác cao.
+Model, đánh dấu vật thể {obj} xem nào.
+phát hiện mục tiêu {obj} trong hình này.
+segment các {obj} ngay đi.
+nhận diện vật thể {obj} [binary mask].
+tô vùng khu vực {obj} [binary mask].
+dự đoán vùng của hình {obj} giúp nhé.
+segment instance {obj}
+Muốn nhận diện instance {obj} cho tôi.
+cắt con {obj} (segmentation task).
+phân đoạn vật thể {obj}.
+chỉ ra vị trí của khu vực {obj} -> mask.
+tách mục tiêu {obj} ạ.
+Muốn highlight con {obj} trong hình này.
+highlight mục tiêu {obj}.
+phân đoạn vật thể {obj} (segmentation task).
+xác định tọa độ instance {obj} xem nào.
+highlight các {obj} trong hình này.
+Prompt: phân đoạn category {obj} (segmentation task).
+Tôi cần vẽ biên dạng cho {obj} cho tôi.
+Bạn ơi, xác định tọa độ đối tượng {obj} trong hình này.
+Query: generate mask cho {obj} với độ chính xác cao.
+Cần cắt hình {obj} với độ chính xác cao.
+Action: phát hiện những {obj} nhanh lên.
+Tìm giúp đánh dấu {obj} -> mask.
+mask class {obj} giúp nhé.
+Hãy locate category {obj} trong ảnh.
+AI, nhận diện category {obj}.
+phát hiện con {obj} xem nào.
+Cần đánh dấu category {obj}.
+Giúp mình khoanh vùng class {obj} ngay đi.
+Prompt: dự đoán vùng của đối tượng {obj} trong ảnh.
+tô vùng khu vực {obj}
+Đề bài: trích xuất category {obj} trong ảnh.
+Tìm giúp cắt cái {obj} nhanh lên.
+Ra lệnh: dự đoán vùng của đối tượng {obj} ngay đi.
+Bot, vẽ biên dạng cho cái {obj} trong ảnh.
+khoanh vùng {obj} ở đây.
+nhận diện instance {obj} trong ảnh.
+locate hình {obj} ngay đi.
+phát hiện con {obj}.
+tô vùng đối tượng {obj} cho tôi.
+Đề bài: phát hiện cái {obj} [binary mask].
+highlight category {obj} -> mask.
+segment cái {obj} nhanh lên.
+Muốn vẽ biên dạng cho khu vực {obj} xem nào.
+vẽ biên dạng cho mục tiêu {obj} giúp nhé.
+vẽ biên dạng cho con {obj} cho tôi.
+khoanh vùng category {obj} (segmentation task).
+phát hiện khu vực {obj} nhé.
+Giúp mình phát hiện những {obj} cho tôi.
+Action: trích xuất cái {obj} trong ảnh.
+chỉ ra vị trí của cái {obj} -> output.
+generate mask cho con {obj} cho tôi.
+phân đoạn hình {obj} ngay đi.
+vẽ biên dạng cho hình {obj} với độ chính xác cao.
+cắt những {obj} ở đây.
+lấy mask của những {obj}.
+dự đoán vùng của những {obj} nhanh lên.
+Muốn phát hiện vật thể {obj}!
+Tìm giúp dự đoán vùng của các {obj} đi.
+Segmentation request: phát hiện class {obj} (segmentation task).
+Task: segment vật thể {obj} (segmentation task).
+Làm ơn locate instance {obj} cho tôi.
+Bạn ơi, lấy mask của instance {obj} ạ.
+lấy mask của mục tiêu {obj} với độ chính xác cao.
+đánh dấu các {obj} đi.
+Bạn hãy dự đoán vùng của các {obj} nhé.
+Cần locate cái {obj}
+Đề bài: locate {obj}
+Hãy tìm kiếm các {obj} [binary mask].
+Input: locate khu vực {obj} ngay đi.
+generate mask cho vật thể {obj}.
+AI, nhận diện các {obj} ở đây.
+Cần chỉ ra vị trí của những {obj} nhé.
+Model, chỉ ra vị trí của các {obj}.
+highlight cái {obj} nhé.
+phát hiện vật thể {obj} cho tôi.
+Yêu cầu: tìm kiếm đối tượng {obj}!
+đánh dấu mục tiêu {obj} ở đây.
+xác định tọa độ hình {obj} xem nào.
+Bot, generate mask cho mục tiêu {obj} nhanh lên.
+Bạn ơi, generate mask cho {obj}
+tách khu vực {obj} trong ảnh.
+tách khu vực {obj} trong hình này.
+Task: tách những {obj} (mask generation).
+Muốn khoanh vùng instance {obj} xem nào.
+cắt class {obj} [binary mask].
+segment {obj} ạ.
+Giúp tôi tìm kiếm instance {obj} [binary mask].
+Làm ơn locate những {obj}
+Bot, phát hiện category {obj} cho tôi.
+vẽ biên dạng cho hình {obj} (segmentation task).
+Input: trích xuất đối tượng {obj} trong bức hình.
+Ê, cắt đối tượng {obj} -> output.
+tô vùng {obj} [binary mask].
+generate mask cho category {obj} trong ảnh.
+Giúp mình mask con {obj} giúp nhé.
+Giúp tôi highlight mục tiêu {obj} nhé.
+locate class {obj} -> mask.
+Bot, nhận diện vật thể {obj} -> mask.
+dự đoán vùng của những {obj} nhé.
+Segmentation request: cắt đối tượng {obj} trong ảnh.
+Vui lòng tách {obj}
+Input: chỉ ra vị trí của khu vực {obj} -> mask.
+RefExp: {obj}.
+Này, lấy mask của {obj}
+trích xuất khu vực {obj} (mask generation).
+nhận diện instance {obj} trong hình này.
+Action: chỉ ra vị trí của khu vực {obj} giúp nhé.
+Làm ơn tô vùng vật thể {obj} [binary mask].
+Input: cắt cái {obj} với độ chính xác cao.
+tách cái {obj} với độ chính xác cao.
+Nhiệm vụ: cắt hình {obj} với độ chính xác cao.
+highlight các {obj}!
+tách class {obj} ngay đi.
+trích xuất mục tiêu {obj} -> mask.
+Segmentation request: highlight class {obj} trong hình này.
+vẽ biên dạng cho các {obj}.
+Input: generate mask cho {obj} trong ảnh.
+phát hiện các {obj} (segmentation task).
+Yêu cầu: tô vùng đối tượng {obj} trong hình này.
+locate hình {obj} xem nào.
+Input: vẽ biên dạng cho vật thể {obj} giúp nhé.
+Yêu cầu: phân đoạn đối tượng {obj} (segmentation task).
+Query: lấy mask của hình {obj}
+Bot, generate mask cho đối tượng {obj}.
+Này, cắt những {obj} cho tôi.
+locate class {obj} [binary mask].
+lấy mask của vật thể {obj}
+Tìm giúp dự đoán vùng của các {obj} trong hình này.
+lấy mask của đối tượng {obj}.
+Bot, nhận diện category {obj}.
+Thực hiện: locate mục tiêu {obj} ở đây.
+đánh dấu {obj} nhé.
+lấy mask của con {obj} xem nào.
+Cần xác định tọa độ khu vực {obj}!
+lấy mask của category {obj} với độ chính xác cao.
+chỉ ra vị trí của instance {obj}!
+xác định tọa độ cái {obj} -> mask.
+lấy mask của các {obj}.
+Tôi cần tô vùng mục tiêu {obj} (mask generation).
+nhận diện {obj} trong hình này.
+Action: locate {obj}
+mask đối tượng {obj} ở đây.
+Thử trích xuất vật thể {obj} trong ảnh.
+chỉ ra vị trí của mục tiêu {obj} ạ.
+AI, trích xuất con {obj} (mask generation).
+đánh dấu {obj} xem nào.
+Giúp tôi tìm kiếm class {obj} -> output.
+Input: tách {obj}
+mask vật thể {obj} xem nào.
+Tôi cần tách {obj}
+Tôi cần nhận diện hình {obj} [binary mask].
+chỉ ra vị trí của hình {obj} trong hình này.
+Action: phát hiện con {obj} ở đây.
+Vui lòng segment vật thể {obj} nhé.
+Thực hiện: khoanh vùng cái {obj} [binary mask].
+Action: phân đoạn khu vực {obj} với độ chính xác cao.
+Prompt: vẽ biên dạng cho mục tiêu {obj}!
+vẽ biên dạng cho những {obj} -> output.
+Action: trích xuất đối tượng {obj} ạ.
+Này, chỉ ra vị trí của mục tiêu {obj} -> mask.
+Ê, tách mục tiêu {obj} [binary mask].
+Cần đánh dấu mục tiêu {obj} (mask generation).
+Bạn hãy tô vùng cái {obj} -> mask.
+Nhiệm vụ: segment những {obj}!
+Task: locate các {obj} -> mask.
+Giúp mình mask instance {obj} -> output.
+Query: dự đoán vùng của mục tiêu {obj} xem nào.
+Muốn phân đoạn class {obj} -> output.
+Thực hiện: generate mask cho đối tượng {obj} giúp nhé.
+highlight category {obj} [binary mask].
+AI, generate mask cho {obj}.
+trích xuất instance {obj} trong hình này.
+Này, xác định tọa độ các {obj} ngay đi.
+Action: cắt {obj} trong bức hình.
+Action: generate mask cho category {obj} giúp nhé.
+segment đối tượng {obj} cho tôi.
+xác định tọa độ vật thể {obj} -> output.
+tìm kiếm vật thể {obj} nhanh lên.
+nhận diện khu vực {obj} nhé.
+highlight category {obj}
+Muốn nhận diện những {obj} nhanh lên.
+Giúp tôi phát hiện class {obj} trong ảnh.
+trích xuất con {obj} giúp nhé.
+Tôi muốn có một cái mask thật chuẩn cho {obj}.
+tô vùng class {obj} cho tôi.
+Tìm giúp nhận diện con {obj}
+vẽ biên dạng cho mục tiêu {obj} (segmentation task).
+Làm ơn dự đoán vùng của mục tiêu {obj}
+Action: generate mask cho vật thể {obj} giúp nhé.
+tách những {obj} ngay đi.
+Prompt: tách con {obj} giúp nhé.
+Giúp mình cắt category {obj} đi.
+Giúp tôi segment con {obj} -> output.
+đánh dấu các {obj} -> output.
+Nhiệm vụ: phân đoạn con {obj} (segmentation task).
+cắt instance {obj} [binary mask].
+Tôi cần đánh dấu những {obj} trong bức hình.
+Thực hiện: phân đoạn {obj}
+Có {obj} trong hình không?
+Thực hiện: xác định tọa độ hình {obj} đi.
+cắt instance {obj} -> output.
+Bot, dự đoán vùng của các {obj} giúp nhé.
+Task: segment vật thể {obj} ngay đi.
+Vui lòng vẽ biên dạng cho cái {obj} giúp nhé.
+Input: phát hiện instance {obj}!
+Input: tìm kiếm category {obj} ạ.
+trích xuất instance {obj} ạ.
+lấy mask của đối tượng {obj} trong bức hình.
+khoanh vùng các {obj} trong bức hình.
+Nhiệm vụ: lấy mask của {obj} trong ảnh.
+Input: xác định tọa độ con {obj}
+Model, mask instance {obj} (mask generation).
+Model, xác định tọa độ con {obj} giúp nhé.
+Tôi cần chỉ ra vị trí của hình {obj} trong hình này.
+Bạn ơi, generate mask cho class {obj}!
+chỉ ra vị trí của mục tiêu {obj} -> mask.
+Giúp tôi tìm kiếm các {obj} ngay đi.
+Muốn highlight vật thể {obj} cho tôi.
+mask {obj} [binary mask].
+Model, dự đoán vùng của cái {obj} trong hình này.
+Input: generate mask cho các {obj} xem nào.
+Giúp mình đánh dấu đối tượng {obj} cho tôi.
+Nhiệm vụ: trích xuất vật thể {obj} đi.
+Ê, segment vật thể {obj} (mask generation).
+Nhiệm vụ: generate mask cho khu vực {obj} trong ảnh.
+Segmentation request: tô vùng {obj}
+Yêu cầu: chỉ ra vị trí của những {obj} với độ chính xác cao.
+Task: generate mask cho class {obj}.
+tìm kiếm instance {obj} (mask generation).
+xác định tọa độ {obj} với độ chính xác cao.
+Làm ơn vẽ biên dạng cho category {obj} giúp nhé.
+Bot, lấy mask của cái {obj} -> mask.
+Hãy generate mask cho đối tượng {obj} cho tôi.
+Bot, phát hiện vật thể {obj} nhanh lên.
+Tôi cần phân đoạn đối tượng {obj} -> output.
+Input: phân đoạn con {obj}
+Hãy tô vùng vật thể {obj} nhanh lên.
+Nhiệm vụ: tách con {obj} nhé.
+AI, dự đoán vùng của khu vực {obj} ngay đi.
+phân đoạn instance {obj} nhanh lên.
+tô vùng instance {obj} trong ảnh.
+vẽ biên dạng cho mục tiêu {obj} nhanh lên.
+đánh dấu khu vực {obj} xem nào.
+cắt instance {obj} trong ảnh.
+Vui lòng tìm kiếm {obj}
+nhận diện hình {obj} trong hình này.
+vẽ biên dạng cho con {obj} [binary mask].
+Hãy tìm kiếm hình {obj} [binary mask].
+Bot, xác định tọa độ khu vực {obj}.
+locate vật thể {obj} trong ảnh.
+Thực hiện: phân đoạn {obj} ngay đi.
+generate mask cho instance {obj} nhé.
+Ê, dự đoán vùng của con {obj} đi.
+generate mask cho khu vực {obj}
+tách các {obj} đi.
+trích xuất đối tượng {obj} ạ.
+tô vùng mục tiêu {obj} ngay đi.
+Prompt: tô vùng cái {obj} -> output.
+segment các {obj} nhé.
+Yêu cầu: tô vùng các {obj} với độ chính xác cao.
+Thử trích xuất những {obj} ngay đi.
+tô vùng class {obj} (mask generation).
+Thử vẽ biên dạng cho {obj} xem nào.
+Tìm giúp locate hình {obj} xem nào.
+lấy mask của cái {obj} ở đây.
+Prompt: chỉ ra vị trí của những {obj} nhanh lên.
+generate mask cho hình {obj}
+locate những {obj}!
+Ra lệnh: đánh dấu category {obj} nhanh lên.
+Giúp mình generate mask cho con {obj} cho tôi.
+phát hiện {obj} ngay đi.
+tìm kiếm {obj} với độ chính xác cao.
+Muốn cắt mục tiêu {obj} nhanh lên.
+Muốn vẽ biên dạng cho mục tiêu {obj} -> mask.
+Ra lệnh: xác định tọa độ {obj}
+Thử tìm kiếm category {obj} ạ.
+Bạn hãy phân đoạn category {obj} trong hình này.
+Hãy highlight instance {obj} -> mask.
+xác định tọa độ khu vực {obj} cho tôi.
+Model, tìm kiếm {obj}
+tô vùng mục tiêu {obj}.
+Nhiệm vụ: dự đoán vùng của đối tượng {obj} trong hình này.
+tô vùng {obj} ngay đi.
+Thử tìm kiếm đối tượng {obj} trong bức hình.
+Muốn trích xuất hình {obj} giúp nhé.
+tìm kiếm con {obj}
+Bot, trích xuất {obj}
+Thực hiện: vẽ biên dạng cho {obj} trong hình này.
+mask {obj} nhé.
+vẽ biên dạng cho vật thể {obj} nhé.
+Giúp tôi tô vùng {obj}
+xác định tọa độ những {obj} với độ chính xác cao.
+Task: nhận diện class {obj}.
+Segmentation request: tách những {obj} ngay đi.
+Query: phân đoạn các {obj} trong hình này.
+Nhiệm vụ: nhận diện đối tượng {obj}.
+Hãy mask instance {obj} xem nào.
+Bot, chỉ ra vị trí của {obj}
+Bạn ơi, vẽ biên dạng cho khu vực {obj} -> output.
+khoanh vùng category {obj} ngay đi.
+đánh dấu khu vực {obj} nhé.
+Này, phát hiện cái {obj} (segmentation task).
+highlight khu vực {obj} (segmentation task).
+phân đoạn class {obj} ở đây.
+Model, lấy mask của những {obj} (segmentation task).
+Muốn tô vùng {obj}
+xác định tọa độ những {obj} nhé.
+tách khu vực {obj} (segmentation task).
+Input: locate những {obj} (mask generation).
+Thực hiện: highlight đối tượng {obj} nhé.
+vẽ biên dạng cho các {obj}!
+Tôi cần cắt {obj} trong ảnh.
+phát hiện mục tiêu {obj}
+phát hiện hình {obj} ạ.
+Đề bài: locate các {obj} (mask generation).
+khoanh vùng {obj} đi.
+segment instance {obj} (mask generation).
+Yêu cầu: segment con {obj} cho tôi.
+nhận diện những {obj} nhanh lên.
+Task: segment các {obj} nhé.
+Nhiệm vụ: chỉ ra vị trí của category {obj} nhé.
+Thử mask cái {obj} ở đây.
+Query: generate mask cho {obj}
+cắt khu vực {obj} xem nào.
+cắt vật thể {obj} ngay đi.
+Yêu cầu: tô vùng các {obj} ở đây.
+generate mask cho vật thể {obj} trong ảnh.
+Action: tìm kiếm đối tượng {obj} trong ảnh.
+Bạn ơi, phân đoạn class {obj} trong ảnh.
+Tôi cần xác định tọa độ con {obj}.
+dự đoán vùng của những {obj} ở đây.
+Làm ơn xác định tọa độ cái {obj} -> mask.
+Đề bài: dự đoán vùng của {obj}
+khoanh vùng hình {obj} đi.
+Mask của {obj} là vùng nào? Mask nó đi.
+Action: xác định tọa độ instance {obj} ngay đi.
+đánh dấu con {obj} ở đây.
+Segmentation request: tô vùng category {obj}!
+Bạn ơi, dự đoán vùng của {obj} ngay đi.
+Action: highlight khu vực {obj}!
+Ra lệnh: lấy mask của mục tiêu {obj} nhanh lên.
+Tôi cần locate {obj}
+Nhiệm vụ: mask hình {obj} ngay đi.
+Query: vẽ biên dạng cho category {obj} nhé.
+tách class {obj} nhé.
+nhận diện {obj} cho tôi.
+Giúp tôi phân đoạn {obj} nhanh lên.
+Action: locate instance {obj} ạ.
+cắt mục tiêu {obj} xem nào.
+segment con {obj}
+Giúp tôi locate class {obj} nhanh lên.
+Nhiệm vụ: tách vật thể {obj} ở đây.
+Bot, dự đoán vùng của category {obj}.
+Muốn khoanh vùng khu vực {obj} ngay đi.
+đánh dấu vật thể {obj} với độ chính xác cao.
+lấy mask của đối tượng {obj} ngay đi.
+Segmentation request: đánh dấu hình {obj} (mask generation).
+Yêu cầu: trích xuất các {obj} cho tôi.
+Model, cắt khu vực {obj} trong ảnh.
+Hãy khoanh vùng {obj}
+Yêu cầu: đánh dấu khu vực {obj} -> output.
+Action: mask mục tiêu {obj} xem nào.
+Ê, khoanh vùng category {obj} xem nào.
+Hãy cắt vật thể {obj} [binary mask].
+Prompt: mask {obj}
+Này, phân đoạn hình {obj} trong ảnh.
+Prompt: generate mask cho instance {obj} ở đây.
+lấy mask của các {obj} (segmentation task).
+tìm kiếm category {obj} trong hình này.
+Thực hiện: tô vùng mục tiêu {obj} cho tôi.
+lấy mask của những {obj} (segmentation task).
+Làm ơn lấy mask của mục tiêu {obj} giúp nhé.
+Này, cắt {obj} [binary mask].
+tô vùng những {obj} -> mask.
+Thử tìm kiếm class {obj} ở đây.
+Thực hiện: chỉ ra vị trí của {obj}
+Bạn ơi, chỉ ra vị trí của cái {obj}
+Task: nhận diện class {obj} trong ảnh.
+mask {obj} cho tôi.
+Này, vẽ biên dạng cho {obj} -> mask.
+Yêu cầu: lấy mask của instance {obj} với độ chính xác cao.
+Ra lệnh: generate mask cho mục tiêu {obj} -> output.
+tách những {obj} giúp nhé.
+segment các {obj} -> output.
+Thử xác định tọa độ {obj}
+generate mask cho class {obj} xem nào.
+phát hiện con {obj} nhé.
+generate mask cho mục tiêu {obj}!
+dự đoán vùng của đối tượng {obj}.
+Thực hiện: generate mask cho con {obj} (segmentation task).
+Model, tìm kiếm instance {obj} đi.
+Hãy cắt mục tiêu {obj} -> mask.
+Hãy generate mask cho con {obj} ở đây.
+chỉ ra vị trí của class {obj} ở đây.
+Prompt: đánh dấu đối tượng {obj} giúp nhé.
+khoanh vùng hình {obj} [binary mask].
+tách vật thể {obj} -> output.
+vẽ biên dạng cho các {obj} trong hình này.
+lấy mask của instance {obj} (mask generation).
+cắt đối tượng {obj} trong hình này.
+nhận diện khu vực {obj} đi.
+Thử chỉ ra vị trí của category {obj} cho tôi.
+Tôi cần tìm kiếm vật thể {obj} trong bức hình.
+Ra lệnh: generate mask cho {obj} trong hình này.
+vẽ biên dạng cho hình {obj} giúp nhé.
+nhận diện con {obj} đi.
+dự đoán vùng của instance {obj} với độ chính xác cao.
+locate {obj} đi.
+Nhiệm vụ: phân đoạn instance {obj} [binary mask].
+Hãy tô vùng khu vực {obj} ngay đi.
+phát hiện đối tượng {obj} [binary mask].
+highlight những {obj} xem nào.
+lấy mask của class {obj} cho tôi.
+Làm ơn dự đoán vùng của {obj} trong ảnh.
+tách vật thể {obj} nhé.
+tách mục tiêu {obj} [binary mask].
+khoanh vùng category {obj} nhé.
+Hãy generate mask cho {obj}
+highlight vật thể {obj} (segmentation task).
+dự đoán vùng của các {obj} cho tôi.
+AI, highlight khu vực {obj} -> mask.
+Prompt: segment instance {obj}.
+dự đoán vùng của vật thể {obj} nhanh lên.
+Input: segment {obj}
+Tôi cần locate vật thể {obj} -> mask.
+vẽ biên dạng cho instance {obj} trong bức hình.
+nhận diện đối tượng {obj} đi.
+Cần highlight instance {obj} ạ.
+Yêu cầu: segment khu vực {obj} [binary mask].
+Prompt: đánh dấu {obj}
+chỉ ra vị trí của con {obj} giúp nhé.
+Prompt: locate class {obj} giúp nhé.
+nhận diện con {obj} [binary mask].
+Hãy highlight {obj}
+Action: phân đoạn các {obj} -> output.
+Bot, dự đoán vùng của class {obj} đi.
+đánh dấu {obj} giúp nhé.
+phân đoạn con {obj} (mask generation).
+Query: locate các {obj} (segmentation task).
+Tìm giúp vẽ biên dạng cho instance {obj} trong bức hình.
+chỉ ra vị trí của hình {obj} trong bức hình.
+Input: lấy mask của vật thể {obj} nhanh lên.
+Ê, segment {obj}
+Tìm giúp nhận diện con {obj} xem nào.
+Segmentation request: mask hình {obj}
+highlight {obj} -> output.
+mask instance {obj} giúp nhé.
+cắt đối tượng {obj} -> output.
+AI, phân đoạn con {obj} (mask generation).
+tách vật thể {obj} (segmentation task).
+nhận diện vật thể {obj}
+cắt instance {obj} xem nào.
+Model, lấy mask của class {obj} xem nào.
+Thử trích xuất các {obj} nhanh lên.
+Task: locate đối tượng {obj} trong bức hình.
+mask các {obj}
+Input: segment những {obj} -> mask.
+phân đoạn class {obj}!
+Bot, locate các {obj} (segmentation task).
+locate {obj} xem nào.
+tô vùng đối tượng {obj} trong hình này.
+Model, highlight khu vực {obj}!
+locate hình {obj} ở đây.
+Thử tô vùng đối tượng {obj} xem nào.
+highlight cái {obj}
+Giúp tôi segment đối tượng {obj} trong hình này.
+Input: mask khu vực {obj}
+dự đoán vùng của khu vực {obj} xem nào.
+highlight hình {obj}
+Cần tìm kiếm mục tiêu {obj} [binary mask].
+Ê, mask {obj}
+Prompt: generate mask cho đối tượng {obj}.
+nhận diện category {obj}
+nhận diện hình {obj} nhanh lên.
+Tôi cần tìm kiếm cái {obj} đi.
+Này, trích xuất class {obj} -> output.
+segment khu vực {obj} nhanh lên.
+Thử highlight các {obj} ở đây.
+mask cái {obj} trong hình này.
+Giúp mình tách mục tiêu {obj} xem nào.
+Bạn hãy nhận diện mục tiêu {obj} (segmentation task).
+khoanh vùng hình {obj} ở đây.
+mask hình {obj} trong bức hình.
+Input: dự đoán vùng của instance {obj} đi.
+Tìm giúp tìm kiếm mục tiêu {obj} trong hình này.
+tô vùng những {obj} ở đây.
+Ra lệnh: lấy mask của con {obj} nhanh lên.
+phát hiện đối tượng {obj} với độ chính xác cao.
+Làm ơn lấy mask của khu vực {obj} với độ chính xác cao.
+Nhiệm vụ: lấy mask của con {obj} xem nào.
+dự đoán vùng của {obj} -> mask.
+Task: xác định tọa độ hình {obj} trong hình này.
+Action: tìm kiếm cái {obj}!
+cắt mục tiêu {obj} trong ảnh.
+Này, trích xuất các {obj} -> mask.
+Query: phân đoạn instance {obj} xem nào.
+Cần tô vùng vật thể {obj} (mask generation).
+Task: locate {obj} ở đây.
+vẽ biên dạng cho category {obj} nhé.
+Thực hiện: lấy mask của hình {obj} (segmentation task).
+Muốn locate đối tượng {obj} trong ảnh.
+generate mask cho category {obj} -> output.
+Ra lệnh: tìm kiếm hình {obj} xem nào.
+Này, locate category {obj} cho tôi.
+phát hiện vật thể {obj} ngay đi.
+Prompt: phân đoạn mục tiêu {obj} trong ảnh.
+Action: cắt instance {obj} ngay đi.
+trích xuất mục tiêu {obj} [binary mask].
+Thực hiện: locate khu vực {obj} nhanh lên.
+Vui lòng cắt cái {obj} trong hình này.
+Action: locate instance {obj}!
+generate mask cho các {obj} -> output.
+Yêu cầu: đánh dấu khu vực {obj} -> mask.
+AI, xác định tọa độ mục tiêu {obj} trong bức hình.
+Vui lòng tách mục tiêu {obj}
+xác định tọa độ {obj} (segmentation task).
+Task: locate instance {obj} ạ.
+highlight hình {obj} ở đây.
+Hãy tìm kiếm các {obj} xem nào.
+Muốn mask category {obj} ạ.
+Model, dự đoán vùng của khu vực {obj} nhé.
+Thử highlight khu vực {obj} giúp nhé.
+Bạn hãy phân đoạn class {obj} (segmentation task).
+Hãy tô vùng vật thể {obj} -> output.
+đánh dấu instance {obj} (mask generation).
+Ra lệnh: trích xuất hình {obj}
+Vui lòng phân đoạn mục tiêu {obj} giúp nhé.
+Prompt: dự đoán vùng của những {obj} -> mask.
+Input: highlight cái {obj} (mask generation).
+locate các {obj} (segmentation task).
+đánh dấu hình {obj} trong ảnh.
+segment đối tượng {obj}!
+Bạn ơi, đánh dấu {obj}
+đánh dấu cái {obj} giúp nhé.
+Cần highlight mục tiêu {obj} ngay đi.
+Input: lấy mask của {obj} (segmentation task).
+Làm ơn tô vùng những {obj} cho tôi.
+Yêu cầu: mask cái {obj} -> output.
+Bạn hãy nhận diện category {obj} [binary mask].
+Này, đánh dấu đối tượng {obj} giúp nhé.
+Ê, cắt category {obj} nhé.
+Tìm giúp phát hiện những {obj} ở đây.
+Yêu cầu: highlight mục tiêu {obj} -> mask.
+tô vùng {obj} trong bức hình.
+tìm kiếm {obj} ạ.
+Action: khoanh vùng đối tượng {obj} ạ.
+Đề bài: lấy mask của những {obj} ạ.
+Segmentation request: highlight {obj}
+Hãy đánh dấu con {obj} ngay đi.
+Query: khoanh vùng cái {obj} trong bức hình.
+dự đoán vùng của {obj} cho tôi.
+Bạn hãy lấy mask của con {obj} (segmentation task).
+Yêu cầu: lấy mask của khu vực {obj} -> output.
+Này, mask những {obj} đi.
+Ra lệnh: đánh dấu {obj}
+Prompt: mask các {obj} với độ chính xác cao.
+Hãy phát hiện vật thể {obj} nhanh lên.
+Prompt: tách đối tượng {obj} đi.
+xác định tọa độ con {obj}.
+Giúp mình trích xuất khu vực {obj} xem nào.
+phân đoạn các {obj} (mask generation).
+Tìm giúp mask {obj}
+highlight mục tiêu {obj} nhé.
+tô vùng khu vực {obj}.
+Vui lòng cắt khu vực {obj} nhanh lên.
+mask instance {obj} ngay đi.
+generate mask cho con {obj} (segmentation task).
+Bạn hãy khoanh vùng hình {obj} giúp nhé.
+Bot, đánh dấu các {obj} nhé.
+Giúp mình phân đoạn instance {obj}.
+Bạn hãy xác định tọa độ category {obj} -> mask.
+Bạn hãy phân đoạn vật thể {obj}
+tìm kiếm class {obj} -> mask.
+Task: locate mục tiêu {obj} trong hình này.
+Ra lệnh: phân đoạn category {obj} [binary mask].
+Action: mask những {obj} -> output.
+chỉ ra vị trí của vật thể {obj} giúp nhé.
+đánh dấu những {obj}.
+phân đoạn cái {obj} với độ chính xác cao.
+segment class {obj} trong bức hình.
+AI, vẽ biên dạng cho mục tiêu {obj} với độ chính xác cao.
+AI, highlight đối tượng {obj}!
+Tôi cần nhận diện {obj}!
+Model, locate khu vực {obj} trong hình này.
+cắt hình {obj} ở đây.
+Đề bài: trích xuất cái {obj} xem nào.
+Vui lòng dự đoán vùng của khu vực {obj}
+tô vùng cái {obj} trong ảnh.
+chỉ ra vị trí của con {obj} đi.
+Nhiệm vụ: segment mục tiêu {obj} đi.
+Thử phát hiện mục tiêu {obj} xem nào.
+nhận diện cái {obj} ngay đi.
+Yêu cầu: cắt mục tiêu {obj} -> output.
+trích xuất class {obj} (mask generation).
+Model, mask khu vực {obj} (mask generation).
+Nhiệm vụ: cắt {obj} trong bức hình.
+nhận diện mục tiêu {obj} (segmentation task).
+dự đoán vùng của những {obj} đi.
+Input: tô vùng đối tượng {obj} cho tôi.
+vẽ biên dạng cho category {obj} [binary mask].
+cắt {obj} (segmentation task).
+tìm kiếm những {obj} nhanh lên.
+Model, phát hiện những {obj}.
+Hãy mask {obj}
+Đề bài: vẽ biên dạng cho instance {obj} trong bức hình.
+trích xuất instance {obj} (mask generation).
+Đề bài: cắt category {obj} xem nào.
+dự đoán vùng của category {obj}.
+xác định tọa độ khu vực {obj} ở đây.
+dự đoán vùng của class {obj} trong hình này.
+Action: segment {obj}
+Prompt: nhận diện hình {obj} trong hình này.
+Bạn ơi, segment {obj}
+dự đoán vùng của đối tượng {obj}!
+Vui lòng tô vùng cái {obj}!
+Đề bài: trích xuất khu vực {obj} trong bức hình.
+Ra lệnh: lấy mask của {obj}
+generate mask cho cái {obj} (segmentation task).
+highlight khu vực {obj} nhé.
+Ê, locate {obj}
+Thực hiện: segment khu vực {obj} -> output.
+vẽ biên dạng cho instance {obj} -> mask.
+phát hiện vật thể {obj}!
+Đề bài: tô vùng vật thể {obj} (mask generation).
+lấy mask của category {obj}!
+highlight hình {obj} cho tôi.
+tách các {obj} giúp nhé.
+Đề bài: phân đoạn cái {obj} với độ chính xác cao.
+Giúp mình trích xuất {obj}
+Tìm giúp mask đối tượng {obj} ở đây.
+Bot, phân đoạn cái {obj} [binary mask].
+đánh dấu đối tượng {obj} trong bức hình.
+Bot, segment con {obj}
+Task: tô vùng mục tiêu {obj} trong hình này.
+Đề bài: trích xuất đối tượng {obj} đi.
+Bot, tô vùng khu vực {obj} giúp nhé.
+Action: cắt {obj}
+Task: chỉ ra vị trí của con {obj} -> output.
+Giúp tôi dự đoán vùng của mục tiêu {obj} nhanh lên.
+Ra lệnh: cắt instance {obj} nhanh lên.
+segment khu vực {obj} nhé.
+segment mục tiêu {obj} [binary mask].
+Muốn phân đoạn hình {obj} trong hình này.
+chỉ ra vị trí của category {obj} (segmentation task).
+Hãy khoanh vùng instance {obj}.
+Segmentation request: nhận diện hình {obj} trong ảnh.
+Nhiệm vụ: tách mục tiêu {obj} ở đây.
+Giúp mình tô vùng instance {obj}.
+khoanh vùng vật thể {obj}!
+đánh dấu khu vực {obj} ngay đi.
+locate đối tượng {obj} -> output.
+Tôi cần phát hiện đối tượng {obj} (mask generation).
+vẽ biên dạng cho mục tiêu {obj}.
+Đề bài: generate mask cho đối tượng {obj}
+Muốn nhận diện class {obj} ở đây.
+AI, generate mask cho con {obj} nhanh lên.
+Thử phân đoạn mục tiêu {obj} ở đây.
+Input: generate mask cho class {obj} giúp nhé.
+Bạn ơi, phát hiện hình {obj} xem nào.
+Nhiệm vụ: đánh dấu class {obj} trong bức hình.
+xác định tọa độ mục tiêu {obj}
+Action: xác định tọa độ những {obj} xem nào.
+Model, cắt vật thể {obj} nhanh lên.
+Giúp tôi tách {obj}
+Ra lệnh: mask khu vực {obj}!
+Bạn hãy cắt cái {obj} nhé.
+Bot, tìm kiếm {obj} nhanh lên.
+Này, dự đoán vùng của mục tiêu {obj} (mask generation).
+lấy mask của vật thể {obj} xem nào.
+dự đoán vùng của đối tượng {obj}
+highlight cái {obj} với độ chính xác cao.
+Input: đánh dấu khu vực {obj} nhé.
+chỉ ra vị trí của con {obj}
+nhận diện {obj} -> output.
+locate class {obj} xem nào.
+Đề bài: nhận diện hình {obj} -> output.
+Task: tìm kiếm class {obj} (segmentation task).
+Thử nhận diện hình {obj} -> mask.
+Tìm giúp tô vùng các {obj} -> output.
+Tìm giúp phân đoạn {obj}

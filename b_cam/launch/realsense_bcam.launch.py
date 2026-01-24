@@ -86,5 +86,41 @@ def generate_launch_description():
             # Output:
             # - /b_cam/human_points (Chỉ người)
             # - /b_cam/static_points (Chỉ môi trường - Đã xóa người)
+        ),
+
+        Node(
+            package='b_cam_ai',
+            executable='referring_segmentation_node',
+            name='referring_segmentation_node',
+            output='screen',
+            parameters=[
+                {'img_size': 320},
+                {'threshold': 0.5},
+                # Input topic ảnh màu
+                {'input_topic': '/camera/camera/color/image_raw'},
+                
+                # --- QUAN TRỌNG: ĐIỀN TÊN VẬT THỂ Ở ĐÂY ---
+                # Code sẽ tự động ghép vào câu ngẫu nhiên: "hãy tìm người, cái cốc"
+                {'target_objects': 'con người'} 
+            ]
+            # Output:
+            # - /b_cam_ai/ref_seg_mask (Mask trắng đen)
+            # - /b_cam_ai/ref_seg_overlay (Ảnh màu debug)
+        ),
+        
+        # ---------------------------------------------------------
+        # Node 6: Semantic Fusion (Kết hợp Mask vào PointCloud)
+        # ---------------------------------------------------------
+        Node(
+            package='b_cam',
+            executable='semantic_fusion_node',
+            name='b_cam_semantic_fusion',
+            output='screen',
+            remappings=[
+                ('b_cam/points_downsampled', '/b_cam/points_downsampled'),
+                # Đổi input mask sang mask của Referring Seg
+                ('b_cam_ai/human_mask', '/b_cam_ai/ref_seg_mask'), 
+                ('camera/color/camera_info', '/camera/camera/color/camera_info')
+            ]
         )
     ])
